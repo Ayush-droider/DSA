@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ayush-droider/DSA/tree/master/0002-add-two-numbers) |
 | [2481-strictly-palindromic-number](https://github.com/Ayush-droider/DSA/tree/master/2481-strictly-palindromic-number) |
 ## Two Pointers
 |  |
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayush-droider/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Ayush-droider/DSA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Ayush-droider/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
