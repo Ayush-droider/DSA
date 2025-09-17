@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Ayush-droider/DSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayush-droider/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Ayush-droider/DSA/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/Ayush-droider/DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Ayush-droider/DSA/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayush-droider/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Ayush-droider/DSA/tree/master/0494-target-sum) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Ayush-droider/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ayush-droider/DSA/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayush-droider/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Ayush-droider/DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Ayush-droider/DSA/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayush-droider/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Ayush-droider/DSA/tree/master/0494-target-sum) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Ayush-droider/DSA/tree/master/0139-word-break) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayush-droider/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ayush-droider/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Prefix Sum
@@ -128,5 +131,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Ayush-droider/DSA/tree/master/0139-word-break) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ayush-droider/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Ayush-droider/DSA/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Ayush-droider/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
