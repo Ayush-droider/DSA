@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ayush-droider/DSA/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/Ayush-droider/DSA/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Ayush-droider/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ayush-droider/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Ayush-droider/DSA/tree/master/0046-permutations) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ayush-droider/DSA/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/Ayush-droider/DSA/tree/master/0031-next-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayush-droider/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/Ayush-droider/DSA/tree/master/2481-strictly-palindromic-number) |
 ## Brainteaser
