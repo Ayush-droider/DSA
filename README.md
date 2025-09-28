@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Ayush-droider/DSA/tree/master/0090-subsets-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/Ayush-droider/DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Greedy
 |  |
 | ------- |
@@ -177,9 +178,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Ayush-droider/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/Ayush-droider/DSA/tree/master/0300-longest-increasing-subsequence) |
 ## Geometry
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Ayush-droider/DSA/tree/master/0830-largest-triangle-area) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Ayush-droider/DSA/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Ayush-droider/DSA/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
