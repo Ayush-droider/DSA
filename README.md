@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ayush-droider/DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Ayush-droider/DSA/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/Ayush-droider/DSA/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayush-droider/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayush-droider/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/Ayush-droider/DSA/tree/master/2481-strictly-palindromic-number) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Ayush-droider/DSA/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Ayush-droider/DSA/tree/master/0139-word-break) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ayush-droider/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ayush-droider/DSA/tree/master/0583-delete-operation-for-two-strings) |
