@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ayush-droider/DSA/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ayush-droider/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0155-min-stack](https://github.com/Ayush-droider/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Ayush-droider/DSA/tree/master/0225-implement-stack-using-queues) |
 ## Sorting
 |  |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Ayush-droider/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Ayush-droider/DSA/tree/master/0225-implement-stack-using-queues) |
 ## Queue
 |  |
