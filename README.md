@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ayush-droider/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ayush-droider/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/Ayush-droider/DSA/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Ayush-droider/DSA/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Ayush-droider/DSA/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/Ayush-droider/DSA/tree/master/0830-largest-triangle-area) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ayush-droider/DSA/tree/master/0943-sum-of-subarray-minimums) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Ayush-droider/DSA/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayush-droider/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Linked List
 |  |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Ayush-droider/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Ayush-droider/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ayush-droider/DSA/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Ayush-droider/DSA/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ayush-droider/DSA/tree/master/0943-sum-of-subarray-minimums) |
 ## Sorting
 |  |
