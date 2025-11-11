@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Ayush-droider/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [1036-rotting-oranges](https://github.com/Ayush-droider/DSA/tree/master/1036-rotting-oranges) |
 | [1603-running-sum-of-1d-array](https://github.com/Ayush-droider/DSA/tree/master/1603-running-sum-of-1d-array) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ayush-droider/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1876-map-of-highest-peak](https://github.com/Ayush-droider/DSA/tree/master/1876-map-of-highest-peak) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayush-droider/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Breadth-First Search
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Ayush-droider/DSA/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ayush-droider/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ayush-droider/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ayush-droider/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ayush-droider/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2887-sort-vowels-in-a-string](https://github.com/Ayush-droider/DSA/tree/master/2887-sort-vowels-in-a-string) |
 ## Trie
