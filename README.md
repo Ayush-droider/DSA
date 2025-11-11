@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ayush-droider/DSA/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/Ayush-droider/DSA/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Ayush-droider/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Ayush-droider/DSA/tree/master/0062-unique-paths) |
 | [0830-largest-triangle-area](https://github.com/Ayush-droider/DSA/tree/master/0830-largest-triangle-area) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Ayush-droider/DSA/tree/master/0012-integer-to-roman) |
 | [0139-word-break](https://github.com/Ayush-droider/DSA/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Ayush-droider/DSA/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayush-droider/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Ayush-droider/DSA/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Ayush-droider/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Ayush-droider/DSA/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Ayush-droider/DSA/tree/master/0139-word-break) |
