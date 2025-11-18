@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ayush-droider/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Ayush-droider/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ayush-droider/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Ayush-droider/DSA/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Ayush-droider/DSA/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ayush-droider/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ayush-droider/DSA/tree/master/0035-search-insert-position) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ayush-droider/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ayush-droider/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Ayush-droider/DSA/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Ayush-droider/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Ayush-droider/DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Ayush-droider/DSA/tree/master/0125-valid-palindrome) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ayush-droider/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Ayush-droider/DSA/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/Ayush-droider/DSA/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayush-droider/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [2887-sort-vowels-in-a-string](https://github.com/Ayush-droider/DSA/tree/master/2887-sort-vowels-in-a-string) |
