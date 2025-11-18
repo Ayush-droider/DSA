@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Ayush-droider/DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Ayush-droider/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Ayush-droider/DSA/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Ayush-droider/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ayush-droider/DSA/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Ayush-droider/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ayush-droider/DSA/tree/master/0064-minimum-path-sum) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ayush-droider/DSA/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Ayush-droider/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ayush-droider/DSA/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Ayush-droider/DSA/tree/master/0130-surrounded-regions) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ayush-droider/DSA/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Ayush-droider/DSA/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/Ayush-droider/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ayush-droider/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Ayush-droider/DSA/tree/master/0062-unique-paths) |
 | [0830-largest-triangle-area](https://github.com/Ayush-droider/DSA/tree/master/0830-largest-triangle-area) |
