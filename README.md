@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ayush-droider/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Ayush-droider/DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Ayush-droider/DSA/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ayush-droider/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ayush-droider/DSA/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Ayush-droider/DSA/tree/master/0012-integer-to-roman) |
 | [0139-word-break](https://github.com/Ayush-droider/DSA/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Ayush-droider/DSA/tree/master/0169-majority-element) |
