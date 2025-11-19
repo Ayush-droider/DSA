@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Ayush-droider/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Ayush-droider/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Ayush-droider/DSA/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/Ayush-droider/DSA/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Ayush-droider/DSA/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Ayush-droider/DSA/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayush-droider/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Ayush-droider/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ayush-droider/DSA/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Ayush-droider/DSA/tree/master/0130-surrounded-regions) |
+| [0498-diagonal-traverse](https://github.com/Ayush-droider/DSA/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Ayush-droider/DSA/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/Ayush-droider/DSA/tree/master/1036-rotting-oranges) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Ayush-droider/DSA/tree/master/1253-sort-the-matrix-diagonally) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ayush-droider/DSA/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/Ayush-droider/DSA/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/Ayush-droider/DSA/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayush-droider/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Linked List
