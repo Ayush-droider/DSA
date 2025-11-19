@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Ayush-droider/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ayush-droider/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1876-map-of-highest-peak](https://github.com/Ayush-droider/DSA/tree/master/1876-map-of-highest-peak) |
+| [2117-find-original-array-from-doubled-array](https://github.com/Ayush-droider/DSA/tree/master/2117-find-original-array-from-doubled-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayush-droider/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Breadth-First Search
 |  |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ayush-droider/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ayush-droider/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ayush-droider/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2117-find-original-array-from-doubled-array](https://github.com/Ayush-droider/DSA/tree/master/2117-find-original-array-from-doubled-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayush-droider/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/Ayush-droider/DSA/tree/master/0402-remove-k-digits) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ayush-droider/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [2117-find-original-array-from-doubled-array](https://github.com/Ayush-droider/DSA/tree/master/2117-find-original-array-from-doubled-array) |
 ## Combinatorics
 |  |
 | ------- |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ayush-droider/DSA/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayush-droider/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Ayush-droider/DSA/tree/master/1253-sort-the-matrix-diagonally) |
+| [2117-find-original-array-from-doubled-array](https://github.com/Ayush-droider/DSA/tree/master/2117-find-original-array-from-doubled-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/Ayush-droider/DSA/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting
 |  |
