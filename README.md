@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ayush-droider/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1876-map-of-highest-peak](https://github.com/Ayush-droider/DSA/tree/master/1876-map-of-highest-peak) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Ayush-droider/DSA/tree/master/2117-find-original-array-from-doubled-array) |
+| [2256-minimum-average-difference](https://github.com/Ayush-droider/DSA/tree/master/2256-minimum-average-difference) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayush-droider/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Breadth-First Search
 |  |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ayush-droider/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Ayush-droider/DSA/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Ayush-droider/DSA/tree/master/1603-running-sum-of-1d-array) |
+| [2256-minimum-average-difference](https://github.com/Ayush-droider/DSA/tree/master/2256-minimum-average-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
