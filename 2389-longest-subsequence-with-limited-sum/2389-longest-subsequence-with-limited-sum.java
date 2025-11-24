@@ -7,10 +7,10 @@ class Solution {
             int mid=start+(end-start)/2;
             if(nums[mid]<=target){
                 ans=mid;
-                start++;
+                start=mid+1;
             }
             else{
-                end--;
+                end=mid-1;
             }
         }
         return ans+1;
@@ -20,7 +20,6 @@ class Solution {
         for(int i=1;i<nums.length;i++){
             nums[i]+=nums[i-1];
         }
-        int maxLen=Integer.MAX_VALUE;
         int[] ans=new int[queries.length];
         int idx=0;
         for(int target:queries){
