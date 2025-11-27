@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Ayush-droider/DSA/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1036-rotting-oranges](https://github.com/Ayush-droider/DSA/tree/master/1036-rotting-oranges) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Ayush-droider/DSA/tree/master/1253-sort-the-matrix-diagonally) |
+| [1254-number-of-closed-islands](https://github.com/Ayush-droider/DSA/tree/master/1254-number-of-closed-islands) |
 | [1345-jump-game-iv](https://github.com/Ayush-droider/DSA/tree/master/1345-jump-game-iv) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ayush-droider/DSA/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1603-running-sum-of-1d-array](https://github.com/Ayush-droider/DSA/tree/master/1603-running-sum-of-1d-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Ayush-droider/DSA/tree/master/0801-is-graph-bipartite) |
 | [1035-cousins-in-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Ayush-droider/DSA/tree/master/1036-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/Ayush-droider/DSA/tree/master/1254-number-of-closed-islands) |
 | [1345-jump-game-iv](https://github.com/Ayush-droider/DSA/tree/master/1345-jump-game-iv) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ayush-droider/DSA/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1876-map-of-highest-peak](https://github.com/Ayush-droider/DSA/tree/master/1876-map-of-highest-peak) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-image-overlap](https://github.com/Ayush-droider/DSA/tree/master/0864-image-overlap) |
 | [1036-rotting-oranges](https://github.com/Ayush-droider/DSA/tree/master/1036-rotting-oranges) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Ayush-droider/DSA/tree/master/1253-sort-the-matrix-diagonally) |
+| [1254-number-of-closed-islands](https://github.com/Ayush-droider/DSA/tree/master/1254-number-of-closed-islands) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ayush-droider/DSA/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1706-where-will-the-ball-fall](https://github.com/Ayush-droider/DSA/tree/master/1706-where-will-the-ball-fall) |
 | [1876-map-of-highest-peak](https://github.com/Ayush-droider/DSA/tree/master/1876-map-of-highest-peak) |
@@ -174,12 +177,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0801-is-graph-bipartite](https://github.com/Ayush-droider/DSA/tree/master/0801-is-graph-bipartite) |
 | [1035-cousins-in-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/1035-cousins-in-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Ayush-droider/DSA/tree/master/1254-number-of-closed-islands) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Ayush-droider/DSA/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Ayush-droider/DSA/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Ayush-droider/DSA/tree/master/0801-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/Ayush-droider/DSA/tree/master/1254-number-of-closed-islands) |
 ## Math
 |  |
 | ------- |
