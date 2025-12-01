@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Ayush-droider/DSA/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Ayush-droider/DSA/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Ayush-droider/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Ayush-droider/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayush-droider/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Ayush-droider/DSA/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Ayush-droider/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ayush-droider/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Ayush-droider/DSA/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Ayush-droider/DSA/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/Ayush-droider/DSA/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/Ayush-droider/DSA/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/Ayush-droider/DSA/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ayush-droider/DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Ayush-droider/DSA/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Ayush-droider/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ayush-droider/DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Ayush-droider/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayush-droider/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0948-bag-of-tokens](https://github.com/Ayush-droider/DSA/tree/master/0948-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/Ayush-droider/DSA/tree/master/1018-largest-perimeter-triangle) |
