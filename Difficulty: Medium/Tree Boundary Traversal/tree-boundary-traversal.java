@@ -1,30 +1,19 @@
-/*
-class Node {
-    int data;
-    Node left, right;
-
-    public Node(int d) {
-        data = d;
-        left = right = null;
-    }
-}
-*/
-
 class Solution {
 
     boolean isLeaf(Node node) {
-        return node != null && node.left == null && node.right == null;
+        return node.left == null && node.right == null;
     }
 
-    void addLeftBoundary(Node node, ArrayList<Integer> list) {
+    void addLeft(Node node, ArrayList<Integer> list) {
         while (node != null) {
-            if (!isLeaf(node))
+            if (!isLeaf(node)) {
                 list.add(node.data);
-
-            if (node.left != null)
+            }
+            if (node.left != null) {
                 node = node.left;
-            else
+            } else {
                 node = node.right;
+            }
         }
     }
 
@@ -32,7 +21,7 @@ class Solution {
         if (node == null) return;
 
         if (isLeaf(node)) {
-            list.add(node.data);   
+            list.add(node.data);
             return;
         }
 
@@ -40,33 +29,34 @@ class Solution {
         addLeaves(node.right, list);
     }
 
-    void addRightBoundary(Node node, ArrayList<Integer> list) {
-        Stack<Integer> st = new Stack<>();
-
+    void addRight(Node node, ArrayList<Integer> list) {
+        Stack<Integer> stack = new Stack<>();
         while (node != null) {
-            if (!isLeaf(node))
-                st.push(node.data);
-
-            if (node.right != null)
+            if (!isLeaf(node)) {
+                stack.push(node.data);
+            }
+            if (node.right != null) {
                 node = node.right;
-            else
+            } else {
                 node = node.left;
+            }
         }
-
-        while (!st.isEmpty())
-            list.add(st.pop());
+        while (!stack.isEmpty()) {
+            list.add(stack.pop());
+        }
     }
 
     ArrayList<Integer> boundaryTraversal(Node root) {
         ArrayList<Integer> list = new ArrayList<>();
         if (root == null) return list;
 
-        if (!isLeaf(root))
+        if (!isLeaf(root)) {
             list.add(root.data);
+        }
 
-        addLeftBoundary(root.left, list);
-        addLeaves(root, list);
-        addRightBoundary(root.right, list);  
+        addLeft(root.left, list);     // Left boundary
+        addLeaves(root, list);        // Leaf nodes
+        addRight(root.right, list);   // Right boundary
 
         return list;
     }
