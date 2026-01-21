@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayush-droider/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Ayush-droider/DSA/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ayush-droider/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Ayush-droider/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/Ayush-droider/DSA/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Ayush-droider/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Ayush-droider/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Greedy
 |  |
 | ------- |
