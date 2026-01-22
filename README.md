@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-number-of-zero-filled-subarrays](https://github.com/Ayush-droider/DSA/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ayush-droider/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Ayush-droider/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ayush-droider/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/Ayush-droider/DSA/tree/master/1345-jump-game-iv) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ayush-droider/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Ayush-droider/DSA/tree/master/2117-find-original-array-from-doubled-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ayush-droider/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ayush-droider/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/Ayush-droider/DSA/tree/master/1929-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayush-droider/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ayush-droider/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
 |  |
 | ------- |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ayush-droider/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ayush-droider/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ayush-droider/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ayush-droider/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -513,4 +517,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ayush-droider/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ayush-droider/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ayush-droider/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ayush-droider/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
