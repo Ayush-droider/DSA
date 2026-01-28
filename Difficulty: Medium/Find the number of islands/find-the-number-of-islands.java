@@ -1,43 +1,51 @@
 class Solution {
-    private class Pair {
+    class Pair{
         int first;
         int second;
-        Pair(int first, int second) {
-            this.first = first;
-            this.second = second;
+        Pair(int first,int second){
+            this.first=first;
+            this.second=second;
         }
     }
-    public void bfs(int ro, int co, int[][] vis, char[][] grid, int n, int m) {
-        vis[ro][co] = 1;
-        Queue<Pair> q = new LinkedList<>();
-        q.offer(new Pair(ro, co));
-        while (!q.isEmpty()) {
-            int row = q.peek().first;
-            int col = q.peek().second;
+    public void bfs(int row,int col,char[][] grid,boolean[][] vis){
+        vis[row][col]=true;
+        int ro=row;
+        int co=col;
+        Queue<Pair> q=new LinkedList<>();
+        q.add(new Pair(ro,co));
+        int n=grid.length;
+        int m=grid[0].length;
+        
+        while(!q.isEmpty()){
+            int r=q.peek().first;
+            int c=q.peek().second;
             q.remove();
-            for (int delrow = -1; delrow <= 1; delrow++) {
-                for (int delcol = -1; delcol <= 1; delcol++) {
-                    int nrow = row + delrow;
-                    int ncol = col + delcol;
-                    if (nrow >= 0 && nrow < n && ncol >= 0 && ncol < m &&
-                        grid[nrow][ncol] == 'L' && vis[nrow][ncol] == 0) {
-                        vis[nrow][ncol] = 1;
-                        q.offer(new Pair(nrow, ncol));
+            
+            for(int delrow=-1;delrow<=1;delrow++){
+                for(int delcol=-1;delcol<=1;delcol++){
+                    int nrow=r+delrow;
+                    int ncol=c+delcol;
+                    
+                    if(nrow>=0 && ncol>=0 && nrow<n && ncol<m && !vis[nrow][ncol] && grid[nrow][ncol]=='L'){
+                        vis[nrow][ncol]=true;
+                        q.add(new Pair(nrow,ncol));
                     }
                 }
             }
         }
     }
     public int countIslands(char[][] grid) {
-        int n = grid.length;
-        int m = grid[0].length;
-        int[][] visited = new int[n][m];
-        int cnt = 0;
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (grid[i][j] == 'L' && visited[i][j] == 0) {
+        int n=grid.length;
+        int m=grid[0].length;
+        
+        boolean[][] visited=new boolean[n][m];
+        
+        int cnt=0;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(!visited[i][j] && grid[i][j]=='L'){
+                    bfs(i,j,grid,visited);
                     cnt++;
-                    bfs(i, j, visited, grid, n, m);
                 }
             }
         }
