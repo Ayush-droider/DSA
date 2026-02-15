@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ayush-droider/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ayush-droider/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Ayush-droider/DSA/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/Ayush-droider/DSA/tree/master/0067-add-binary) |
 | [0523-continuous-subarray-sum](https://github.com/Ayush-droider/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0830-largest-triangle-area](https://github.com/Ayush-droider/DSA/tree/master/0830-largest-triangle-area) |
 | [0991-broken-calculator](https://github.com/Ayush-droider/DSA/tree/master/0991-broken-calculator) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ayush-droider/DSA/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Ayush-droider/DSA/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Ayush-droider/DSA/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/Ayush-droider/DSA/tree/master/0735-asteroid-collision) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Ayush-droider/DSA/tree/master/1027-sum-of-even-numbers-after-queries) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ayush-droider/DSA/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/Ayush-droider/DSA/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Ayush-droider/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Ayush-droider/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Ayush-droider/DSA/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Ayush-droider/DSA/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Ayush-droider/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Ayush-droider/DSA/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Ayush-droider/DSA/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Ayush-droider/DSA/tree/master/0242-valid-anagram) |
