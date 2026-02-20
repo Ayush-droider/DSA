@@ -13,38 +13,43 @@
  *     }
  * }
  */
-
 class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-        List<List<Integer>> result = new ArrayList<>();
-        if (root == null) return result;
 
-        Deque<TreeNode> deque = new LinkedList<>();
-        deque.add(root);
-        boolean rev = false;
+        List<List<Integer>> ans=new ArrayList<>();
+        if(root==null) return ans;
 
-        while (!deque.isEmpty()) {
-            int levelSize = deque.size();
-            List<Integer> currentLevel = new ArrayList<>();
+        Deque<TreeNode> dq=new LinkedList<>();
+        dq.offer(root);
 
-            for (int i = 0; i < levelSize; i++) {
-                if (!rev) { 
-                    TreeNode node = deque.pollFirst();
-                    currentLevel.add(node.val);
-                    if (node.left != null) deque.addLast(node.left);
-                    if (node.right != null) deque.addLast(node.right);
-                } else { 
-                    TreeNode node = deque.pollLast();
-                    currentLevel.add(node.val);
-                    if (node.right != null) deque.addFirst(node.right);
-                    if (node.left != null) deque.addFirst(node.left);
+        boolean rev=false;
+
+        while(!dq.isEmpty()){
+
+            int size=dq.size();
+            LinkedList<Integer> list=new LinkedList<>();
+
+            for(int i=0;i<size;i++){
+
+                if(!rev){
+                    TreeNode node=dq.removeFirst();
+                    list.addLast(node.val);
+
+                    if(node.left!=null) dq.addLast(node.left);
+                    if(node.right!=null) dq.addLast(node.right);
+                }
+                else{
+                    TreeNode node=dq.removeLast();
+                    list.addLast(node.val);
+
+                    if(node.right!=null) dq.addFirst(node.right);
+                    if(node.left!=null) dq.addFirst(node.left);
                 }
             }
 
-            result.add(currentLevel);
-            rev = !rev; 
+            ans.add(list);
+            rev = !rev;
         }
-
-        return result;
+        return ans;
     }
 }
