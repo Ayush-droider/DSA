@@ -1,15 +1,17 @@
 class Solution {
     public int getSecondLargest(int[] arr) {
-        int largest=arr[0],slargest=-1;
-        for(int i=1;i<arr.length;i++){
+        // code here
+        int largest=Integer.MIN_VALUE;
+        int seclargest=Integer.MIN_VALUE;
+        for(int i=0;i<arr.length;i++){
             if(arr[i]>largest){
-                slargest=largest;
+                seclargest=largest;
                 largest=arr[i];
             }
-            else if(arr[i]<largest && arr[i]>slargest){
-                slargest=arr[i];
+            else if(arr[i]<largest && arr[i]>seclargest){
+                seclargest=arr[i];
             }
         }
-        return slargest;
+        return seclargest == Integer.MIN_VALUE ? -1 : seclargest;
     }
 }
