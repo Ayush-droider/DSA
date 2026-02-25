@@ -1,28 +1,14 @@
 class Solution {
     void pushZerosToEnd(int[] arr) {
-        int n = arr.length;
-        int j = -1;
-
-        for (int i = 0; i < n; i++) {
-            if (arr[i] == 0) {
-                j = i;
-                break;
-            }
+        // code here
+        int count=0;
+        for(int i=0;i<arr.length;i++){
+            if(arr[i]!=0)arr[count++]=arr[i];
         }
-
-        if (j == -1) return;
-
-        for (int i = j + 1; i < n; i++) {
-            if (arr[i] != 0) {
-                swap(arr, i, j);
-                j++;
-            }
+        int zeros=arr.length-count;
+        while(zeros!=0){
+            arr[count++]=0;
+            zeros--;
         }
-    }
-
-    public void swap(int[] arr, int x, int y) {
-        int temp = arr[x];
-        arr[x] = arr[y];
-        arr[y] = temp;
     }
 }
