@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Ayush-droider/DSA/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/Ayush-droider/DSA/tree/master/0735-asteroid-collision) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Ayush-droider/DSA/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ayush-droider/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1706-where-will-the-ball-fall](https://github.com/Ayush-droider/DSA/tree/master/1706-where-will-the-ball-fall) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ayush-droider/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/Ayush-droider/DSA/tree/master/1929-concatenation-of-array) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Ayush-droider/DSA/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Ayush-droider/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ayush-droider/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ayush-droider/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ayush-droider/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Ayush-droider/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Greedy
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Ayush-droider/DSA/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ayush-droider/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1328-break-a-palindrome](https://github.com/Ayush-droider/DSA/tree/master/1328-break-a-palindrome) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ayush-droider/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ayush-droider/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ayush-droider/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ayush-droider/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
