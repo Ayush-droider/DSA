@@ -1,21 +1,21 @@
 class Solution {
 
     static Boolean isSubsetSum(int arr[], int sum) {
-        int n = arr.length;
-        boolean[][] dp = new boolean[n][sum + 1];
-        for (int i = 0; i < n; i++)
-            dp[i][0] = true;
-        if (arr[0] <= sum)
-            dp[0][arr[0]] = true;
-        for (int i = 1; i < n; i++) {
-            for (int target = 1; target <= sum; target++) {
-                boolean notPick = dp[i - 1][target];
-                boolean pick = false;
-                if (arr[i] <= target)
-                    pick = dp[i - 1][target - arr[i]];
-                dp[i][target] = pick || notPick;
-            }
+        Boolean[][] dp=new Boolean[200][10000];
+        return helper(arr.length - 1, arr, sum,dp);
+    }
+
+    public static Boolean helper(int idx, int[] arr, int target,Boolean[][] dp) {
+        if (target == 0) return true;
+        if (idx == 0) return (target == arr[0]);
+        
+        if(dp[idx][target]!=null)return dp[idx][target];
+        
+        boolean notpick = helper(idx - 1, arr, target,dp);
+        boolean pick = false;
+        if (arr[idx] <= target) {
+            pick = helper(idx - 1, arr, target - arr[idx],dp);
         }
-        return dp[n - 1][sum];
+        return dp[idx][target]=pick || notpick;
     }
 }
