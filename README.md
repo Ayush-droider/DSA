@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ayush-droider/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/Ayush-droider/DSA/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Ayush-droider/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/Ayush-droider/DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Ayush-droider/DSA/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Ayush-droider/DSA/tree/master/0542-01-matrix) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Ayush-droider/DSA/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ayush-droider/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ayush-droider/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/Ayush-droider/DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Ayush-droider/DSA/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Ayush-droider/DSA/tree/master/0437-path-sum-iii) |
@@ -606,4 +608,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ayush-droider/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Ayush-droider/DSA/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Ayush-droider/DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
