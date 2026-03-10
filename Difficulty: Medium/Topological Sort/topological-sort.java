@@ -1,37 +1,35 @@
 class Solution {
-
-    public void dfs(int node, int[] vis, Stack<Integer> st, ArrayList<ArrayList<Integer>> adj){
-        vis[node] = 1;
-
-        for(int neigh : adj.get(node)){
-            if(vis[neigh] == 0){
-                dfs(neigh, vis, st, adj);
+    public void dfs(int node,boolean[] vis,Stack<Integer> st,List<List<Integer>> graph){
+        vis[node]=true;
+        for(int neigh:graph.get(node)){
+            if(!vis[neigh]){
+                dfs(neigh,vis,st,graph);
             }
         }
         st.push(node);
     }
-
     public ArrayList<Integer> topoSort(int V, int[][] edges) {
-        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
-        for(int i = 0; i < V; i++){
-            adj.add(new ArrayList<>());
+        // code here
+        boolean[] vis=new boolean[V];
+        Stack<Integer> st=new Stack<>();
+        List<List<Integer>> graph=new ArrayList<>();
+        for(int i=0;i<V;i++){
+            graph.add(new ArrayList<>());
         }
-        for(int[] e : edges){
-            adj.get(e[0]).add(e[1]);
+        for(int[] edge:edges){
+            int u=edge[0];
+            int v=edge[1];
+            graph.get(u).add(v);
         }
-        int[] vis = new int[V];
-        Stack<Integer> st = new Stack<>();
-
-        for(int i = 0; i < V; i++){
-            if(vis[i] == 0){
-                dfs(i, vis, st, adj);
+        for(int i=0;i<V;i++){
+            if(!vis[i]){
+                dfs(i,vis,st,graph);
             }
         }
-        ArrayList<Integer> ans = new ArrayList<>();
+        ArrayList<Integer> ans=new ArrayList<>();
         while(!st.isEmpty()){
             ans.add(st.pop());
         }
-
         return ans;
     }
 }
