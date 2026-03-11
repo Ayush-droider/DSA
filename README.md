@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Ayush-droider/DSA/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ayush-droider/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ayush-droider/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Ayush-droider/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Ayush-droider/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [2256-minimum-average-difference](https://github.com/Ayush-droider/DSA/tree/master/2256-minimum-average-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ayush-droider/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Ayush-droider/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
