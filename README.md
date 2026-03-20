@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Ayush-droider/DSA/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Ayush-droider/DSA/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Ayush-droider/DSA/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/Ayush-droider/DSA/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Ayush-droider/DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Ayush-droider/DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Ayush-droider/DSA/tree/master/0139-word-break) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ayush-droider/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ayush-droider/DSA/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Ayush-droider/DSA/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayush-droider/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ayush-droider/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ayush-droider/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
