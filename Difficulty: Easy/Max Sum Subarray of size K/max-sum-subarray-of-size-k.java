@@ -1,23 +1,20 @@
 class Solution {
     public int maxSubarraySum(int[] arr, int k) {
         // Code here
-        int i = 0;
-        int j = 0;
-        int n=arr.length;
-        int ans=Integer.MIN_VALUE;
+        int i=0,j=0;
         int sum=0;
+        int n=arr.length;
+        int maxi=Integer.MIN_VALUE;
         while(j<n){
             sum+=arr[j];
-            if((j-i+1)<k){
-                j++;
-            }
+            if((j-i+1)<k)j++;
             else if((j-i+1)==k){
-                ans=Math.max(ans,sum);
+                maxi=Math.max(maxi,sum);
+                j++;
                 sum-=arr[i];
                 i++;
-                j++;
             }
         }
-        return ans;
+        return maxi;
     }
 }
