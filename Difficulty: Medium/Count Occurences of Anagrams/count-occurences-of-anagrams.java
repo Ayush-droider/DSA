@@ -4,39 +4,38 @@ class Solution {
 
     int search(String pat, String txt) {
         // code here
+        int n=txt.length();
         int k=pat.length();
-        int size=txt.length();
+        int i=0,j=0;
+        int ans=0;
         HashMap<Character,Integer> map=new HashMap<>();
-        for(int i=0;i<k;i++){
-            char ch=pat.charAt(i);
+        
+        for(char ch:pat.toCharArray()){
             map.put(ch,map.getOrDefault(ch,0)+1);
         }
-        int ans=0;
+        
         int count=map.size();
-        int i=0,j=0;
-        while(j<size){
-            if(map.containsKey(txt.charAt(j))){
-                map.put(txt.charAt(j),map.get(txt.charAt(j))-1);
-                if(map.get(txt.charAt(j))==0){
+        
+        while(j<n){
+            char ch=txt.charAt(j);
+            if(map.containsKey(ch)){
+                map.put(ch,map.get(ch)-1);
+                if(map.get(ch)==0){
                     count--;
                 }
             }
-            if((j-i+1)<k){
-                j++;
-            }
-            else if((j-i+1)==k){
-                if(count==0){
-                    ans++;
-                }
-                if(map.containsKey(txt.charAt(i))){
-                    map.put(txt.charAt(i),map.get(txt.charAt(i))+1);
-                    if(map.get(txt.charAt(i))==1){
-                        count++;
-                    }
+            
+            if((j-i+1)==k){
+                if(count==0)ans++;
+                
+                char leftch=txt.charAt(i);
+                if(map.containsKey(leftch)){
+                    map.put(leftch,map.get(leftch)+1);
+                    if(map.get(leftch)==1)count++;
                 }
                 i++;
-                j++;
             }
+            j++;
         }
         return ans;
     }
