@@ -1,24 +1,25 @@
 class Solution {
+    private void swap(int start,int end,int[] arr){
+        int temp=arr[start];
+        arr[start]=arr[end];
+        arr[end]=temp;
+    }
     public void sort012(int[] arr) {
-        int low = 0, mid = 0, high = arr.length - 1;
-
-        while (mid <= high) {
-            if (arr[mid] == 0) {
-                int temp = arr[low];
-                arr[low] = arr[mid];
-                arr[mid] = temp;
-
-                low++;
-                mid++;
-            } else if (arr[mid] == 1) {
-                mid++;
-            } else {
-                int temp = arr[mid];
-                arr[mid] = arr[high];
-                arr[high] = temp;
-
-                high--;
+        // code here
+        int n=arr.length;
+        int i=0,j=0,k=n-1;
+        
+        while(j<=k){
+            if(arr[j]==0){
+                swap(i,j,arr);
+                i++;
+                j++;
             }
+            else if(arr[j]==2){
+                swap(j,k,arr);
+                k--;
+            }
+            else j++;
         }
     }
 }
