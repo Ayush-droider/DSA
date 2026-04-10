@@ -8,13 +8,14 @@ class Solution {
         HashMap<Integer,Integer> map=new HashMap<>();
         for(int i=0;i<arr.length;i++){
             sum+=arr[i];
+            if(map.containsKey(sum-k)){
+                int len=i-map.get(sum-k);
+                maxi=Math.max(len,maxi);
+            }
             if(sum==k){
                 maxi=i+1;
             }
-            if(map.containsKey(sum-k)){
-                maxi=Math.max(maxi,i-map.get(sum-k));
-            }
-            if(!map.containsKey(sum))map.put(sum,i);
+            map.putIfAbsent(sum,i);
         }
         return maxi;
     }
