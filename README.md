@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/1035-cousins-in-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Ayush-droider/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1254-number-of-closed-islands](https://github.com/Ayush-droider/DSA/tree/master/1254-number-of-closed-islands) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Ayush-droider/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Union Find
 |  |
 | ------- |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/1035-cousins-in-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Ayush-droider/DSA/tree/master/1110-delete-nodes-and-return-forest) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Ayush-droider/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
 | ------- |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/1035-cousins-in-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Ayush-droider/DSA/tree/master/1110-delete-nodes-and-return-forest) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Ayush-droider/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Search Tree
 |  |
 | ------- |
