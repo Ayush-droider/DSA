@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Ayush-droider/DSA/tree/master/1254-number-of-closed-islands) |
 | [1345-jump-game-iv](https://github.com/Ayush-droider/DSA/tree/master/1345-jump-game-iv) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ayush-droider/DSA/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1876-map-of-highest-peak](https://github.com/Ayush-droider/DSA/tree/master/1876-map-of-highest-peak) |
 ## Matrix
 |  |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/Ayush-droider/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1254-number-of-closed-islands](https://github.com/Ayush-droider/DSA/tree/master/1254-number-of-closed-islands) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Ayush-droider/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/1035-cousins-in-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Ayush-droider/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Ayush-droider/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -560,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/1035-cousins-in-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Ayush-droider/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Ayush-droider/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
