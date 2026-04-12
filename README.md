@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ayush-droider/DSA/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1876-map-of-highest-peak](https://github.com/Ayush-droider/DSA/tree/master/1876-map-of-highest-peak) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-delete-leaves-with-a-given-value](https://github.com/Ayush-droider/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Ayush-droider/DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-delete-leaves-with-a-given-value](https://github.com/Ayush-droider/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Ayush-droider/DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -607,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ayush-droider/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Ayush-droider/DSA/tree/master/2117-find-original-array-from-doubled-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ayush-droider/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ayush-droider/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/Ayush-droider/DSA/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting
