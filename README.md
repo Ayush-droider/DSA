@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ayush-droider/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ayush-droider/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ayush-droider/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ayush-droider/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/Ayush-droider/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1706-where-will-the-ball-fall](https://github.com/Ayush-droider/DSA/tree/master/1706-where-will-the-ball-fall) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ayush-droider/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Ayush-droider/DSA/tree/master/1254-number-of-closed-islands) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ayush-droider/DSA/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ayush-droider/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ayush-droider/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1706-where-will-the-ball-fall](https://github.com/Ayush-droider/DSA/tree/master/1706-where-will-the-ball-fall) |
 | [1876-map-of-highest-peak](https://github.com/Ayush-droider/DSA/tree/master/1876-map-of-highest-peak) |
 | [2906-construct-product-matrix](https://github.com/Ayush-droider/DSA/tree/master/2906-construct-product-matrix) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Ayush-droider/DSA/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ayush-droider/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ayush-droider/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ayush-droider/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Ayush-droider/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ayush-droider/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Depth-First Search
