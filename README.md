@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/Ayush-droider/DSA/tree/master/1345-jump-game-iv) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ayush-droider/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1512-number-of-good-pairs](https://github.com/Ayush-droider/DSA/tree/master/1512-number-of-good-pairs) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ayush-droider/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ayush-droider/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ayush-droider/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Ayush-droider/DSA/tree/master/2117-find-original-array-from-doubled-array) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Ayush-droider/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1328-break-a-palindrome](https://github.com/Ayush-droider/DSA/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ayush-droider/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ayush-droider/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Ayush-droider/DSA/tree/master/2117-find-original-array-from-doubled-array) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Ayush-droider/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ayush-droider/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ayush-droider/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ayush-droider/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ayush-droider/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ayush-droider/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ayush-droider/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ayush-droider/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ayush-droider/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -648,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Ayush-droider/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Ayush-droider/DSA/tree/master/1253-sort-the-matrix-diagonally) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ayush-droider/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ayush-droider/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Ayush-droider/DSA/tree/master/2117-find-original-array-from-doubled-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ayush-droider/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2463-minimum-total-distance-traveled](https://github.com/Ayush-droider/DSA/tree/master/2463-minimum-total-distance-traveled) |
