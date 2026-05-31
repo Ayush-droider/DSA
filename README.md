@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/Ayush-droider/DSA/tree/master/1876-map-of-highest-peak) |
 | [1929-concatenation-of-array](https://github.com/Ayush-droider/DSA/tree/master/1929-concatenation-of-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Ayush-droider/DSA/tree/master/2117-find-original-array-from-doubled-array) |
+| [2126-destroying-asteroids](https://github.com/Ayush-droider/DSA/tree/master/2126-destroying-asteroids) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayush-droider/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2256-minimum-average-difference](https://github.com/Ayush-droider/DSA/tree/master/2256-minimum-average-difference) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayush-droider/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ayush-droider/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ayush-droider/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Ayush-droider/DSA/tree/master/2117-find-original-array-from-doubled-array) |
+| [2126-destroying-asteroids](https://github.com/Ayush-droider/DSA/tree/master/2126-destroying-asteroids) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Ayush-droider/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ayush-droider/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Ayush-droider/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -654,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ayush-droider/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ayush-droider/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Ayush-droider/DSA/tree/master/2117-find-original-array-from-doubled-array) |
+| [2126-destroying-asteroids](https://github.com/Ayush-droider/DSA/tree/master/2126-destroying-asteroids) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ayush-droider/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2463-minimum-total-distance-traveled](https://github.com/Ayush-droider/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
