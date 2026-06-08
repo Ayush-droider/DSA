@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Ayush-droider/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Ayush-droider/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Ayush-droider/DSA/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/Ayush-droider/DSA/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/Ayush-droider/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayush-droider/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ayush-droider/DSA/tree/master/0189-rotate-array) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ayush-droider/DSA/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ayush-droider/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/Ayush-droider/DSA/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ayush-droider/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ayush-droider/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ayush-droider/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
