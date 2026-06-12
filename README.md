@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ayush-droider/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Ayush-droider/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ayush-droider/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3477-fruits-into-baskets-ii](https://github.com/Ayush-droider/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ayush-droider/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ayush-droider/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ayush-droider/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayush-droider/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ayush-droider/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayush-droider/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3477-fruits-into-baskets-ii](https://github.com/Ayush-droider/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ayush-droider/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ayush-droider/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Linked List
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Ayush-droider/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ayush-droider/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ayush-droider/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [3477-fruits-into-baskets-ii](https://github.com/Ayush-droider/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ayush-droider/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ayush-droider/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Geometry
@@ -794,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/Ayush-droider/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ayush-droider/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Enumeration
 |  |
@@ -830,4 +834,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ayush-droider/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/Ayush-droider/DSA/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
