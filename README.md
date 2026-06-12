@@ -530,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/Ayush-droider/DSA/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Ayush-droider/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0686-repeated-string-match](https://github.com/Ayush-droider/DSA/tree/master/0686-repeated-string-match) |
 | [0767-reorganize-string](https://github.com/Ayush-droider/DSA/tree/master/0767-reorganize-string) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Ayush-droider/DSA/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0942-di-string-match](https://github.com/Ayush-droider/DSA/tree/master/0942-di-string-match) |
@@ -829,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/Ayush-droider/DSA/tree/master/0686-repeated-string-match) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Ayush-droider/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Randomized
 |  |
