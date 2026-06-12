@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ayush-droider/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1512-number-of-good-pairs](https://github.com/Ayush-droider/DSA/tree/master/1512-number-of-good-pairs) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ayush-droider/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Ayush-droider/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ayush-droider/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ayush-droider/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Ayush-droider/DSA/tree/master/2117-find-original-array-from-doubled-array) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ayush-droider/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ayush-droider/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ayush-droider/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Ayush-droider/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ayush-droider/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ayush-droider/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2278-percentage-of-letter-in-string](https://github.com/Ayush-droider/DSA/tree/master/2278-percentage-of-letter-in-string) |
@@ -728,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Ayush-droider/DSA/tree/master/0767-reorganize-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ayush-droider/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/Ayush-droider/DSA/tree/master/1512-number-of-good-pairs) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Ayush-droider/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3692-majority-frequency-characters](https://github.com/Ayush-droider/DSA/tree/master/3692-majority-frequency-characters) |
 | [3713-longest-balanced-substring-i](https://github.com/Ayush-droider/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Ayush-droider/DSA/tree/master/3746-minimum-string-length-after-balanced-removals) |
