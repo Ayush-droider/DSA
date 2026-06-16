@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ayush-droider/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Ayush-droider/DSA/tree/master/2117-find-original-array-from-doubled-array) |
 | [2670-find-the-distinct-difference-array](https://github.com/Ayush-droider/DSA/tree/master/2670-find-the-distinct-difference-array) |
+| [2716-minimize-string-length](https://github.com/Ayush-droider/DSA/tree/master/2716-minimize-string-length) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ayush-droider/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ayush-droider/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ayush-droider/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-construct-smallest-number-from-di-string](https://github.com/Ayush-droider/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Ayush-droider/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ayush-droider/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2716-minimize-string-length](https://github.com/Ayush-droider/DSA/tree/master/2716-minimize-string-length) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ayush-droider/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/Ayush-droider/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3110-score-of-a-string](https://github.com/Ayush-droider/DSA/tree/master/3110-score-of-a-string) |
