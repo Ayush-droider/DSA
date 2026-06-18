@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/Ayush-droider/DSA/tree/master/2481-strictly-palindromic-number) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ayush-droider/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ayush-droider/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Ayush-droider/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/Ayush-droider/DSA/tree/master/3794-reverse-string-prefix) |
 ## Brainteaser
 |  |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3477-fruits-into-baskets-ii](https://github.com/Ayush-droider/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ayush-droider/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ayush-droider/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Ayush-droider/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3838-weighted-word-mapping](https://github.com/Ayush-droider/DSA/tree/master/3838-weighted-word-mapping) |
 ## Linked List
 |  |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3692-majority-frequency-characters](https://github.com/Ayush-droider/DSA/tree/master/3692-majority-frequency-characters) |
 | [3713-longest-balanced-substring-i](https://github.com/Ayush-droider/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Ayush-droider/DSA/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Ayush-droider/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/Ayush-droider/DSA/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/Ayush-droider/DSA/tree/master/3838-weighted-word-mapping) |
 ## Trie
