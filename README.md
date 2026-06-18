@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Ayush-droider/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Ayush-droider/DSA/tree/master/1253-sort-the-matrix-diagonally) |
 | [1254-number-of-closed-islands](https://github.com/Ayush-droider/DSA/tree/master/1254-number-of-closed-islands) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Ayush-droider/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1345-jump-game-iv](https://github.com/Ayush-droider/DSA/tree/master/1345-jump-game-iv) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ayush-droider/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ayush-droider/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ayush-droider/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Ayush-droider/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ayush-droider/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Ayush-droider/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1345-jump-game-iv](https://github.com/Ayush-droider/DSA/tree/master/1345-jump-game-iv) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ayush-droider/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ayush-droider/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/Ayush-droider/DSA/tree/master/0991-broken-calculator) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ayush-droider/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-largest-perimeter-triangle](https://github.com/Ayush-droider/DSA/tree/master/1018-largest-perimeter-triangle) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Ayush-droider/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1328-break-a-palindrome](https://github.com/Ayush-droider/DSA/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ayush-droider/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ayush-droider/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -746,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Ayush-droider/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/Ayush-droider/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Ayush-droider/DSA/tree/master/1253-sort-the-matrix-diagonally) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Ayush-droider/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ayush-droider/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ayush-droider/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ayush-droider/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
