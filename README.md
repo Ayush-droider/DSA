@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Ayush-droider/DSA/tree/master/0830-largest-triangle-area) |
 | [0991-broken-calculator](https://github.com/Ayush-droider/DSA/tree/master/0991-broken-calculator) |
 | [1018-largest-perimeter-triangle](https://github.com/Ayush-droider/DSA/tree/master/1018-largest-perimeter-triangle) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Ayush-droider/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1512-number-of-good-pairs](https://github.com/Ayush-droider/DSA/tree/master/1512-number-of-good-pairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ayush-droider/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Ayush-droider/DSA/tree/master/2050-count-good-numbers) |
