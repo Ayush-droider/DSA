@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ayush-droider/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayush-droider/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/Ayush-droider/DSA/tree/master/0983-minimum-cost-for-tickets) |
+| [0994-rotting-oranges](https://github.com/Ayush-droider/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayush-droider/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ayush-droider/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-largest-perimeter-triangle](https://github.com/Ayush-droider/DSA/tree/master/1018-largest-perimeter-triangle) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ayush-droider/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0801-is-graph-bipartite](https://github.com/Ayush-droider/DSA/tree/master/0801-is-graph-bipartite) |
+| [0994-rotting-oranges](https://github.com/Ayush-droider/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ayush-droider/DSA/tree/master/1020-number-of-enclaves) |
 | [1035-cousins-in-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Ayush-droider/DSA/tree/master/1036-rotting-oranges) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Ayush-droider/DSA/tree/master/0542-01-matrix) |
 | [0777-toeplitz-matrix](https://github.com/Ayush-droider/DSA/tree/master/0777-toeplitz-matrix) |
 | [0864-image-overlap](https://github.com/Ayush-droider/DSA/tree/master/0864-image-overlap) |
+| [0994-rotting-oranges](https://github.com/Ayush-droider/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ayush-droider/DSA/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/Ayush-droider/DSA/tree/master/1036-rotting-oranges) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Ayush-droider/DSA/tree/master/1253-sort-the-matrix-diagonally) |
