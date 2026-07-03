@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    public int height(TreeNode root){
+    private int height(TreeNode root){
         if(root==null)return 0;
         int left=height(root.left);
         int right=height(root.right);
