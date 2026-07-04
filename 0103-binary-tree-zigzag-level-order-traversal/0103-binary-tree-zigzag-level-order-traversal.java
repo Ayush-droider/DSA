@@ -15,40 +15,34 @@
  */
 class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-
-        List<List<Integer>> ans=new ArrayList<>();
-        if(root==null) return ans;
-
-        Deque<TreeNode> dq=new LinkedList<>();
+        List<List<Integer>> ans = new ArrayList<>();
+        if (root == null)
+            return ans;
+        Deque<TreeNode> dq = new ArrayDeque<>();
         dq.offer(root);
-
-        boolean rev=false;
-
-        while(!dq.isEmpty()){
-
-            int size=dq.size();
-            LinkedList<Integer> list=new LinkedList<>();
-
-            for(int i=0;i<size;i++){
-
-                if(!rev){
-                    TreeNode node=dq.removeFirst();
-                    list.addLast(node.val);
-
-                    if(node.left!=null) dq.addLast(node.left);
-                    if(node.right!=null) dq.addLast(node.right);
-                }
-                else{
-                    TreeNode node=dq.removeLast();
-                    list.addLast(node.val);
-
-                    if(node.right!=null) dq.addFirst(node.right);
-                    if(node.left!=null) dq.addFirst(node.left);
+        boolean rev = false;
+        while (!dq.isEmpty()) {
+            int size = dq.size();
+            List<Integer> level = new ArrayList<>();
+            for (int i = 0; i < size; i++) {
+                if (!rev) {
+                    TreeNode curr = dq.removeFirst();
+                    level.add(curr.val);
+                    if (curr.left != null)
+                        dq.addLast(curr.left);
+                    if (curr.right != null)
+                        dq.addLast(curr.right);
+                } else {
+                    TreeNode curr = dq.removeLast();
+                    level.add(curr.val);
+                    if (curr.right != null)
+                        dq.addFirst(curr.right);
+                    if (curr.left != null)
+                        dq.addFirst(curr.left);
                 }
             }
-
-            ans.add(list);
-            rev = !rev;
+            ans.add(level);
+            rev=!rev;
         }
         return ans;
     }
