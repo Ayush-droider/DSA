@@ -14,23 +14,27 @@
  * }
  */
 class Solution {
-    List<List<Integer>> list=new ArrayList<>();
-    public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
-        dfs(root,targetSum,new ArrayList<>());
-        return list;
+    List<List<Integer>> ans;
+    private boolean isLeaf(TreeNode root){
+        return root.left==null && root.right==null;
     }
-    public void dfs(TreeNode root,int targetSum,List<Integer> inlist){
+    private void helper(TreeNode root,int target,List<List<Integer>> ans,List<Integer> path,int sum){
         if(root==null)return;
-
-        inlist.add(root.val);
-        
-        if(root.left==null && root.right==null && root.val==targetSum){
-            list.add(new ArrayList<>(inlist));
+        sum+=root.val;
+        path.add(root.val);
+        if(isLeaf(root)){
+            if(target==sum)ans.add(new ArrayList<>(path));
+            path.remove(path.size()-1);
+            return;
         }
-        
-        dfs(root.left,targetSum-root.val,inlist);
-        dfs(root.right,targetSum-root.val,inlist);
+        helper(root.left,target,ans,path,sum);
+        helper(root.right,target,ans,path,sum);
 
-        inlist.remove(inlist.size() - 1);
+        path.remove(path.size()-1);
+    }
+    public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
+        ans=new ArrayList<>();
+        helper(root,targetSum,ans,new ArrayList<>(),0);
+        return ans;
     }
 }
