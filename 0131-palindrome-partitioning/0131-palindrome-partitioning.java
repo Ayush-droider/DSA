@@ -1,29 +1,31 @@
 class Solution {
-    public boolean isPalindrome(int start,int end,String s){
-        while(start<=end){
-            if(s.charAt(start)!=s.charAt(end))return false;
-            start++;
-            end--;
+    List<List<String>> ans=new ArrayList<>();
+    private boolean isPalindrome(String s){
+        int i=0,j=s.length()-1;
+        while(i<j){
+            if(s.charAt(i)!=s.charAt(j))return false;
+            i++;
+            j--;
         }
         return true;
     }
-    public void solve(int idx,String s,List<List<String>> ans,List<String> path){
-        if(idx>=s.length()){
-            ans.add(new ArrayList<>(path));
+    public List<List<String>> partition(String s) {
+        helper(0,s,new ArrayList<>());
+        return ans;
+    }
+    private void helper(int idx,String s,List<String> list){
+        if(idx==s.length()){
+            ans.add(new ArrayList<>(list));
             return;
         }
-        for(int i=idx;i<s.length();i++){
-            if(isPalindrome(idx,i,s)){
-                path.add(s.substring(idx,i+1));
-                solve(i+1,s,ans,path);
-                path.remove(path.size()-1);
+
+        for(int start=idx;start<s.length();start++){
+            String p=s.substring(idx,start+1);
+            if(isPalindrome(p)){
+                list.add(p);
+                helper(start+1,s,list);
+                list.remove(list.size()-1);
             }
         }
-    }
-    public List<List<String>> partition(String s) {
-        List<List<String>> ans=new ArrayList<>();
-        List<String> path=new ArrayList<>();
-        solve(0,s,ans,path);
-        return ans;
     }
 }
