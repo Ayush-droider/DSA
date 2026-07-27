@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Ayush-droider/DSA/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Ayush-droider/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ayush-droider/DSA/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Ayush-droider/DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Ayush-droider/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ayush-droider/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Ayush-droider/DSA/tree/master/0062-unique-paths) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Ayush-droider/DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Ayush-droider/DSA/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Ayush-droider/DSA/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Ayush-droider/DSA/tree/master/0498-diagonal-traverse) |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ayush-droider/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Ayush-droider/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ayush-droider/DSA/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/Ayush-droider/DSA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Ayush-droider/DSA/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Ayush-droider/DSA/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Ayush-droider/DSA/tree/master/0079-word-search) |
