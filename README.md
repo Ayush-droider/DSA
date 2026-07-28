@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Ayush-droider/DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Ayush-droider/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ayush-droider/DSA/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Ayush-droider/DSA/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Ayush-droider/DSA/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Ayush-droider/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Ayush-droider/DSA/tree/master/0070-climbing-stairs) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ayush-droider/DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Ayush-droider/DSA/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Ayush-droider/DSA/tree/master/0060-permutation-sequence) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ayush-droider/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Ayush-droider/DSA/tree/master/2050-count-good-numbers) |
 ## Backtracking
