@@ -1,25 +1,22 @@
 class Solution {
+    List<List<Integer>> ans=new ArrayList<>();
     public List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>> ans = new ArrayList<>();
-        boolean[] flag = new boolean[nums.length];
-        helper(nums, ans, new ArrayList<>(), flag);
+        boolean[] lechuka=new boolean[nums.length];
+        helper(nums,lechuka,new ArrayList<>());
         return ans;
     }
-
-    private void helper(int[] arr, List<List<Integer>> ans, List<Integer> ds, boolean[] flag) {
-        if (ds.size() == arr.length) {
-            ans.add(new ArrayList<>(ds));
+    private void helper(int[] nums,boolean[] lechuka,List<Integer> list){
+        if(list.size()==nums.length){
+            ans.add(new ArrayList<>(list));
             return;
         }
-
-        for (int i = 0; i < arr.length; i++) {
-            if (!flag[i]) {
-                flag[i] = true;
-                ds.add(arr[i]);
-                helper(arr, ans, ds, flag);
-                ds.remove(ds.size() - 1);
-                flag[i] = false;
-            }
+        for(int i=0;i<nums.length;i++){
+            if(lechuka[i])continue;
+            lechuka[i]=true;
+            list.add(nums[i]);
+            helper(nums,lechuka,list);
+            lechuka[i]=false;
+            list.remove(list.size()-1);
         }
     }
 }
