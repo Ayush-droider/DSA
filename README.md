@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Ayush-droider/DSA/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/Ayush-droider/DSA/tree/master/0830-largest-triangle-area) |
 | [0864-image-overlap](https://github.com/Ayush-droider/DSA/tree/master/0864-image-overlap) |
+| [0877-stone-game](https://github.com/Ayush-droider/DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Ayush-droider/DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ayush-droider/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0942-di-string-match](https://github.com/Ayush-droider/DSA/tree/master/0942-di-string-match) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Ayush-droider/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ayush-droider/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ayush-droider/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/Ayush-droider/DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ayush-droider/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Ayush-droider/DSA/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ayush-droider/DSA/tree/master/0943-sum-of-subarray-minimums) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Ayush-droider/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayush-droider/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0830-largest-triangle-area](https://github.com/Ayush-droider/DSA/tree/master/0830-largest-triangle-area) |
+| [0877-stone-game](https://github.com/Ayush-droider/DSA/tree/master/0877-stone-game) |
 | [0991-broken-calculator](https://github.com/Ayush-droider/DSA/tree/master/0991-broken-calculator) |
 | [1018-largest-perimeter-triangle](https://github.com/Ayush-droider/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Ayush-droider/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -1004,4 +1007,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ayush-droider/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Ayush-droider/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
