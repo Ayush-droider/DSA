@@ -656,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ayush-droider/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ayush-droider/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Ayush-droider/DSA/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Ayush-droider/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2278-percentage-of-letter-in-string](https://github.com/Ayush-droider/DSA/tree/master/2278-percentage-of-letter-in-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Ayush-droider/DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Ayush-droider/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
