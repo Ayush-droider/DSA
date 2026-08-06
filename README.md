@@ -702,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayush-droider/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayush-droider/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Ayush-droider/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0278-first-bad-version](https://github.com/Ayush-droider/DSA/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/Ayush-droider/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayush-droider/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayush-droider/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -1050,4 +1051,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/Ayush-droider/DSA/tree/master/1859-sorting-the-sentence) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Ayush-droider/DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
