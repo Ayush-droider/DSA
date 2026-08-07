@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Ayush-droider/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/Ayush-droider/DSA/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Ayush-droider/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0556-next-greater-element-iii](https://github.com/Ayush-droider/DSA/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayush-droider/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0830-largest-triangle-area](https://github.com/Ayush-droider/DSA/tree/master/0830-largest-triangle-area) |
 | [0877-stone-game](https://github.com/Ayush-droider/DSA/tree/master/0877-stone-game) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ayush-droider/DSA/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayush-droider/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Ayush-droider/DSA/tree/master/0443-string-compression) |
+| [0556-next-greater-element-iii](https://github.com/Ayush-droider/DSA/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ayush-droider/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/Ayush-droider/DSA/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/Ayush-droider/DSA/tree/master/0844-backspace-string-compare) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Ayush-droider/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/Ayush-droider/DSA/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ayush-droider/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0556-next-greater-element-iii](https://github.com/Ayush-droider/DSA/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ayush-droider/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ayush-droider/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0606-construct-string-from-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/0606-construct-string-from-binary-tree) |
