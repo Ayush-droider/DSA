@@ -1,26 +1,31 @@
 class Solution {
+    private class Pair{
+        int height;
+        int pos;
+        Pair(int height,int pos){
+            this.height=height;
+            this.pos=pos;
+        }
+    }
     public int largestRectangleArea(int[] heights) {
-        int n=heights.length;
-        Stack<Integer> st=new Stack<>();
-        int maxArea=0;
-        for(int i=0;i<n;i++){
-            while(!st.isEmpty() && heights[st.peek()]>=heights[i]){
-                int h=heights[st.pop()];
-                int right=i;
-                int left=(st.isEmpty())?-1:st.peek();
-                int width=right-left-1;
-                maxArea=Math.max(maxArea,width*h);
+        Stack<Pair> st=new Stack<>();
+        int maxi=Integer.MIN_VALUE;
+        int start=0;
+        for(int i=0;i<heights.length;i++){
+            start=i;
+            while(!st.isEmpty() && st.peek().height>heights[i]){
+                Pair p=st.pop();
+                int area=p.height*(i-p.pos);
+                maxi=Math.max(maxi,area);
+                start=p.pos;
             }
-            st.push(i);
+            st.push(new Pair(heights[i],start));
         }
-        while (!st.isEmpty()) {
-            int h = heights[st.pop()];
-            int right = n;
-            int left = st.isEmpty() ? -1 : st.peek();
-            int width = right - left - 1;
-            maxArea = Math.max(maxArea, width * h);
+        while(!st.isEmpty()){
+            Pair p=st.pop();
+            int area=p.height*(heights.length-p.pos);
+            maxi=Math.max(maxi,area);
         }
-        
-        return maxArea;
+        return maxi;
     }
 }
