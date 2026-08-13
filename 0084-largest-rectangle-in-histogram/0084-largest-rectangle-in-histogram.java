@@ -1,31 +1,35 @@
 class Solution {
-    private class Pair{
-        int height;
-        int pos;
-        Pair(int height,int pos){
-            this.height=height;
-            this.pos=pos;
+    private int[] findNSE(int[] heights){
+        int[] nse=new int[heights.length];
+        Stack<Integer> st=new Stack<>();
+        for(int i=heights.length-1;i>=0;i--){
+            while(!st.isEmpty() && heights[st.peek()]>=heights[i]){
+                st.pop();
+            }
+            nse[i]=(st.isEmpty())?heights.length:st.peek();
+            st.push(i);
         }
+        return nse;
+    }
+    private int[] findPSE(int[] heights){
+        Stack<Integer> st=new Stack<>();
+        int[] pse=new int[heights.length];
+        for(int i=0;i<heights.length;i++){
+            while(!st.isEmpty() && heights[st.peek()]>=heights[i]){
+                st.pop();
+            }
+            pse[i]=(st.isEmpty())?-1:st.peek();
+            st.push(i);
+        }
+        return pse;
     }
     public int largestRectangleArea(int[] heights) {
-        Stack<Pair> st=new Stack<>();
-        int maxi=Integer.MIN_VALUE;
-        int start=0;
+        int[] nse=findNSE(heights);
+        int[] pse=findPSE(heights);
+        int maxArea=0;
         for(int i=0;i<heights.length;i++){
-            start=i;
-            while(!st.isEmpty() && st.peek().height>heights[i]){
-                Pair p=st.pop();
-                int area=p.height*(i-p.pos);
-                maxi=Math.max(maxi,area);
-                start=p.pos;
-            }
-            st.push(new Pair(heights[i],start));
+            maxArea=Math.max(maxArea,heights[i]*(nse[i]-pse[i]-1));
         }
-        while(!st.isEmpty()){
-            Pair p=st.pop();
-            int area=p.height*(heights.length-p.pos);
-            maxi=Math.max(maxi,area);
-        }
-        return maxi;
+        return maxArea;
     }
 }
