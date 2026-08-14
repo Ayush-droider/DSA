@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Ayush-droider/DSA/tree/master/1020-number-of-enclaves) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Ayush-droider/DSA/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1036-rotting-oranges](https://github.com/Ayush-droider/DSA/tree/master/1036-rotting-oranges) |
+| [1048-longest-string-chain](https://github.com/Ayush-droider/DSA/tree/master/1048-longest-string-chain) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Ayush-droider/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1200-minimum-absolute-difference](https://github.com/Ayush-droider/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Ayush-droider/DSA/tree/master/1253-sort-the-matrix-diagonally) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-flip-string-to-monotone-increasing](https://github.com/Ayush-droider/DSA/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ayush-droider/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [0983-minimum-cost-for-tickets](https://github.com/Ayush-droider/DSA/tree/master/0983-minimum-cost-for-tickets) |
+| [1048-longest-string-chain](https://github.com/Ayush-droider/DSA/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/Ayush-droider/DSA/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Ayush-droider/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ayush-droider/DSA/tree/master/1250-longest-common-subsequence) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Ayush-droider/DSA/tree/master/0942-di-string-match) |
 | [0948-bag-of-tokens](https://github.com/Ayush-droider/DSA/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayush-droider/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1048-longest-string-chain](https://github.com/Ayush-droider/DSA/tree/master/1048-longest-string-chain) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ayush-droider/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ayush-droider/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayush-droider/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Ayush-droider/DSA/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/Ayush-droider/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ayush-droider/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1048-longest-string-chain](https://github.com/Ayush-droider/DSA/tree/master/1048-longest-string-chain) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Ayush-droider/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ayush-droider/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Ayush-droider/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -659,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-flip-string-to-monotone-increasing](https://github.com/Ayush-droider/DSA/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0942-di-string-match](https://github.com/Ayush-droider/DSA/tree/master/0942-di-string-match) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayush-droider/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1048-longest-string-chain](https://github.com/Ayush-droider/DSA/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/Ayush-droider/DSA/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Ayush-droider/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ayush-droider/DSA/tree/master/1250-longest-common-subsequence) |
@@ -867,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Ayush-droider/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ayush-droider/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-largest-perimeter-triangle](https://github.com/Ayush-droider/DSA/tree/master/1018-largest-perimeter-triangle) |
+| [1048-longest-string-chain](https://github.com/Ayush-droider/DSA/tree/master/1048-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/Ayush-droider/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Ayush-droider/DSA/tree/master/1253-sort-the-matrix-diagonally) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Ayush-droider/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
