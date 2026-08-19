@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ayush-droider/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2256-minimum-average-difference](https://github.com/Ayush-droider/DSA/tree/master/2256-minimum-average-difference) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayush-droider/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2295-replace-elements-in-an-array](https://github.com/Ayush-droider/DSA/tree/master/2295-replace-elements-in-an-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Ayush-droider/DSA/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ayush-droider/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Ayush-droider/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ayush-droider/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Ayush-droider/DSA/tree/master/2117-find-original-array-from-doubled-array) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Ayush-droider/DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2295-replace-elements-in-an-array](https://github.com/Ayush-droider/DSA/tree/master/2295-replace-elements-in-an-array) |
 | [2670-find-the-distinct-difference-array](https://github.com/Ayush-droider/DSA/tree/master/2670-find-the-distinct-difference-array) |
 | [2716-minimize-string-length](https://github.com/Ayush-droider/DSA/tree/master/2716-minimize-string-length) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ayush-droider/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayush-droider/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ayush-droider/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayush-droider/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2295-replace-elements-in-an-array](https://github.com/Ayush-droider/DSA/tree/master/2295-replace-elements-in-an-array) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/Ayush-droider/DSA/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Ayush-droider/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3477-fruits-into-baskets-ii](https://github.com/Ayush-droider/DSA/tree/master/3477-fruits-into-baskets-ii) |
