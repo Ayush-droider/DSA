@@ -468,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Ayush-droider/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ayush-droider/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1048-longest-string-chain](https://github.com/Ayush-droider/DSA/tree/master/1048-longest-string-chain) |
+| [1079-letter-tile-possibilities](https://github.com/Ayush-droider/DSA/tree/master/1079-letter-tile-possibilities) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Ayush-droider/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ayush-droider/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Ayush-droider/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Ayush-droider/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Ayush-droider/DSA/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Ayush-droider/DSA/tree/master/0494-target-sum) |
+| [1079-letter-tile-possibilities](https://github.com/Ayush-droider/DSA/tree/master/1079-letter-tile-possibilities) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Ayush-droider/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Bit Manipulation
 |  |
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Ayush-droider/DSA/tree/master/0942-di-string-match) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayush-droider/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1048-longest-string-chain](https://github.com/Ayush-droider/DSA/tree/master/1048-longest-string-chain) |
+| [1079-letter-tile-possibilities](https://github.com/Ayush-droider/DSA/tree/master/1079-letter-tile-possibilities) |
 | [1143-longest-common-subsequence](https://github.com/Ayush-droider/DSA/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Ayush-droider/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ayush-droider/DSA/tree/master/1250-longest-common-subsequence) |
@@ -915,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ayush-droider/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ayush-droider/DSA/tree/master/0229-majority-element-ii) |
 | [0767-reorganize-string](https://github.com/Ayush-droider/DSA/tree/master/0767-reorganize-string) |
+| [1079-letter-tile-possibilities](https://github.com/Ayush-droider/DSA/tree/master/1079-letter-tile-possibilities) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ayush-droider/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/Ayush-droider/DSA/tree/master/1512-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ayush-droider/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
