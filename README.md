@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ayush-droider/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2527-find-xor-beauty-of-array](https://github.com/Ayush-droider/DSA/tree/master/2527-find-xor-beauty-of-array) |
 | [2670-find-the-distinct-difference-array](https://github.com/Ayush-droider/DSA/tree/master/2670-find-the-distinct-difference-array) |
+| [2748-number-of-beautiful-pairs](https://github.com/Ayush-droider/DSA/tree/master/2748-number-of-beautiful-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ayush-droider/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2906-construct-product-matrix](https://github.com/Ayush-droider/DSA/tree/master/2906-construct-product-matrix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayush-droider/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/Ayush-droider/DSA/tree/master/2481-strictly-palindromic-number) |
 | [2527-find-xor-beauty-of-array](https://github.com/Ayush-droider/DSA/tree/master/2527-find-xor-beauty-of-array) |
 | [2544-alternating-digit-sum](https://github.com/Ayush-droider/DSA/tree/master/2544-alternating-digit-sum) |
+| [2748-number-of-beautiful-pairs](https://github.com/Ayush-droider/DSA/tree/master/2748-number-of-beautiful-pairs) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Ayush-droider/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ayush-droider/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ayush-droider/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2295-replace-elements-in-an-array](https://github.com/Ayush-droider/DSA/tree/master/2295-replace-elements-in-an-array) |
 | [2670-find-the-distinct-difference-array](https://github.com/Ayush-droider/DSA/tree/master/2670-find-the-distinct-difference-array) |
 | [2716-minimize-string-length](https://github.com/Ayush-droider/DSA/tree/master/2716-minimize-string-length) |
+| [2748-number-of-beautiful-pairs](https://github.com/Ayush-droider/DSA/tree/master/2748-number-of-beautiful-pairs) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ayush-droider/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayush-droider/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ayush-droider/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -933,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Ayush-droider/DSA/tree/master/1512-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ayush-droider/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Ayush-droider/DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2748-number-of-beautiful-pairs](https://github.com/Ayush-droider/DSA/tree/master/2748-number-of-beautiful-pairs) |
 | [3692-majority-frequency-characters](https://github.com/Ayush-droider/DSA/tree/master/3692-majority-frequency-characters) |
 | [3713-longest-balanced-substring-i](https://github.com/Ayush-droider/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Ayush-droider/DSA/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -1083,6 +1087,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ayush-droider/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2748-number-of-beautiful-pairs](https://github.com/Ayush-droider/DSA/tree/master/2748-number-of-beautiful-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ayush-droider/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Quickselect
 |  |
