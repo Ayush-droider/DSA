@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Ayush-droider/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Ayush-droider/DSA/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/Ayush-droider/DSA/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Ayush-droider/DSA/tree/master/0706-design-hashmap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ayush-droider/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/Ayush-droider/DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Ayush-droider/DSA/tree/master/0733-flood-fill) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ayush-droider/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ayush-droider/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0705-design-hashset](https://github.com/Ayush-droider/DSA/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Ayush-droider/DSA/tree/master/0706-design-hashmap) |
 | [0767-reorganize-string](https://github.com/Ayush-droider/DSA/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/Ayush-droider/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ayush-droider/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ayush-droider/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ayush-droider/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0705-design-hashset](https://github.com/Ayush-droider/DSA/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Ayush-droider/DSA/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayush-droider/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ayush-droider/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ayush-droider/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -971,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Ayush-droider/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ayush-droider/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/Ayush-droider/DSA/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Ayush-droider/DSA/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/Ayush-droider/DSA/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -1065,6 +1069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Ayush-droider/DSA/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Ayush-droider/DSA/tree/master/0706-design-hashmap) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ayush-droider/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Graph Theory
 |  |
