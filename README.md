@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Ayush-droider/DSA/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/Ayush-droider/DSA/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/Ayush-droider/DSA/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/Ayush-droider/DSA/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Ayush-droider/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Ayush-droider/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Ayush-droider/DSA/tree/master/0494-target-sum) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ayush-droider/DSA/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayush-droider/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayush-droider/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Ayush-droider/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Ayush-droider/DSA/tree/master/0443-string-compression) |
 | [0556-next-greater-element-iii](https://github.com/Ayush-droider/DSA/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ayush-droider/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Ayush-droider/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Ayush-droider/DSA/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Ayush-droider/DSA/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/Ayush-droider/DSA/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Ayush-droider/DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayush-droider/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayush-droider/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
