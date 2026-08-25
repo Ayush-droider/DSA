@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Ayush-droider/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [0983-minimum-cost-for-tickets](https://github.com/Ayush-droider/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1048-longest-string-chain](https://github.com/Ayush-droider/DSA/tree/master/1048-longest-string-chain) |
+| [1092-shortest-common-supersequence](https://github.com/Ayush-droider/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Ayush-droider/DSA/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Ayush-droider/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ayush-droider/DSA/tree/master/1250-longest-common-subsequence) |
@@ -727,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayush-droider/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1048-longest-string-chain](https://github.com/Ayush-droider/DSA/tree/master/1048-longest-string-chain) |
 | [1079-letter-tile-possibilities](https://github.com/Ayush-droider/DSA/tree/master/1079-letter-tile-possibilities) |
+| [1092-shortest-common-supersequence](https://github.com/Ayush-droider/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Ayush-droider/DSA/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Ayush-droider/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ayush-droider/DSA/tree/master/1250-longest-common-subsequence) |
@@ -1166,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/Ayush-droider/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/Ayush-droider/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Ayush-droider/DSA/tree/master/1143-longest-common-subsequence) |
 ## Longest Increasing Subsequence
 |  |
