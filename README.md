@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Ayush-droider/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Ayush-droider/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Ayush-droider/DSA/tree/master/1406-stone-game-iii) |
+| [1486-xor-operation-in-an-array](https://github.com/Ayush-droider/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Ayush-droider/DSA/tree/master/1512-number-of-good-pairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ayush-droider/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ayush-droider/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -648,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ayush-droider/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ayush-droider/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ayush-droider/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1486-xor-operation-in-an-array](https://github.com/Ayush-droider/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ayush-droider/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Ayush-droider/DSA/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2527-find-xor-beauty-of-array](https://github.com/Ayush-droider/DSA/tree/master/2527-find-xor-beauty-of-array) |
