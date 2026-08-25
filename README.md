@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Ayush-droider/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ayush-droider/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Ayush-droider/DSA/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Ayush-droider/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Ayush-droider/DSA/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Ayush-droider/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayush-droider/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Ayush-droider/DSA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Ayush-droider/DSA/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Ayush-droider/DSA/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Ayush-droider/DSA/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Ayush-droider/DSA/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Ayush-droider/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Ayush-droider/DSA/tree/master/0125-valid-palindrome) |
