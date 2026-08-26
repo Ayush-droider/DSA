@@ -690,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/Ayush-droider/DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ayush-droider/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ayush-droider/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1881-maximum-value-after-insertion](https://github.com/Ayush-droider/DSA/tree/master/1881-maximum-value-after-insertion) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Ayush-droider/DSA/tree/master/2117-find-original-array-from-doubled-array) |
 | [2126-destroying-asteroids](https://github.com/Ayush-droider/DSA/tree/master/2126-destroying-asteroids) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Ayush-droider/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -770,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ayush-droider/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ayush-droider/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1859-sorting-the-sentence](https://github.com/Ayush-droider/DSA/tree/master/1859-sorting-the-sentence) |
+| [1881-maximum-value-after-insertion](https://github.com/Ayush-droider/DSA/tree/master/1881-maximum-value-after-insertion) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ayush-droider/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ayush-droider/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Ayush-droider/DSA/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
