@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Ayush-droider/DSA/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1036-rotting-oranges](https://github.com/Ayush-droider/DSA/tree/master/1036-rotting-oranges) |
 | [1048-longest-string-chain](https://github.com/Ayush-droider/DSA/tree/master/1048-longest-string-chain) |
+| [1051-height-checker](https://github.com/Ayush-droider/DSA/tree/master/1051-height-checker) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Ayush-droider/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1200-minimum-absolute-difference](https://github.com/Ayush-droider/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Ayush-droider/DSA/tree/master/1253-sort-the-matrix-diagonally) |
@@ -968,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ayush-droider/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-largest-perimeter-triangle](https://github.com/Ayush-droider/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1048-longest-string-chain](https://github.com/Ayush-droider/DSA/tree/master/1048-longest-string-chain) |
+| [1051-height-checker](https://github.com/Ayush-droider/DSA/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Ayush-droider/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Ayush-droider/DSA/tree/master/1253-sort-the-matrix-diagonally) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Ayush-droider/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -1181,6 +1183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bubble Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/Ayush-droider/DSA/tree/master/1051-height-checker) |
 | [1859-sorting-the-sentence](https://github.com/Ayush-droider/DSA/tree/master/1859-sorting-the-sentence) |
 ## Interactive
 |  |
@@ -1213,4 +1216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Ayush-droider/DSA/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Ayush-droider/DSA/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
