@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Ayush-droider/DSA/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/Ayush-droider/DSA/tree/master/0830-largest-triangle-area) |
 | [0864-image-overlap](https://github.com/Ayush-droider/DSA/tree/master/0864-image-overlap) |
+| [0867-transpose-matrix](https://github.com/Ayush-droider/DSA/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Ayush-droider/DSA/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Ayush-droider/DSA/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Ayush-droider/DSA/tree/master/0904-fruit-into-baskets) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Ayush-droider/DSA/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/Ayush-droider/DSA/tree/master/0777-toeplitz-matrix) |
 | [0864-image-overlap](https://github.com/Ayush-droider/DSA/tree/master/0864-image-overlap) |
+| [0867-transpose-matrix](https://github.com/Ayush-droider/DSA/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Ayush-droider/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ayush-droider/DSA/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/Ayush-droider/DSA/tree/master/1036-rotting-oranges) |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Ayush-droider/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Ayush-droider/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Ayush-droider/DSA/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/Ayush-droider/DSA/tree/master/0867-transpose-matrix) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Ayush-droider/DSA/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ayush-droider/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1706-where-will-the-ball-fall](https://github.com/Ayush-droider/DSA/tree/master/1706-where-will-the-ball-fall) |
