@@ -531,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Ayush-droider/DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2295-replace-elements-in-an-array](https://github.com/Ayush-droider/DSA/tree/master/2295-replace-elements-in-an-array) |
 | [2405-optimal-partition-of-string](https://github.com/Ayush-droider/DSA/tree/master/2405-optimal-partition-of-string) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Ayush-droider/DSA/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2670-find-the-distinct-difference-array](https://github.com/Ayush-droider/DSA/tree/master/2670-find-the-distinct-difference-array) |
 | [2716-minimize-string-length](https://github.com/Ayush-droider/DSA/tree/master/2716-minimize-string-length) |
 | [2748-number-of-beautiful-pairs](https://github.com/Ayush-droider/DSA/tree/master/2748-number-of-beautiful-pairs) |
@@ -785,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/Ayush-droider/DSA/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Ayush-droider/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/Ayush-droider/DSA/tree/master/2405-optimal-partition-of-string) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Ayush-droider/DSA/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ayush-droider/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2716-minimize-string-length](https://github.com/Ayush-droider/DSA/tree/master/2716-minimize-string-length) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ayush-droider/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -1007,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Ayush-droider/DSA/tree/master/1512-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ayush-droider/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Ayush-droider/DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Ayush-droider/DSA/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2748-number-of-beautiful-pairs](https://github.com/Ayush-droider/DSA/tree/master/2748-number-of-beautiful-pairs) |
 | [3692-majority-frequency-characters](https://github.com/Ayush-droider/DSA/tree/master/3692-majority-frequency-characters) |
 | [3713-longest-balanced-substring-i](https://github.com/Ayush-droider/DSA/tree/master/3713-longest-balanced-substring-i) |
