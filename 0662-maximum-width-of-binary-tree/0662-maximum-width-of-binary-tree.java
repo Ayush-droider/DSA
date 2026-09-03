@@ -16,39 +16,42 @@
 class Solution {
     private class Pair{
         TreeNode node;
-        int num;
-        Pair(TreeNode node,int num){
+        long idx;
+        Pair(TreeNode node,long idx){
             this.node=node;
-            this.num=num;
+            this.idx=idx;
         }
     }
+
     public int widthOfBinaryTree(TreeNode root) {
         if(root==null)return 0;
-
-        int width=0;
 
         Queue<Pair> q=new LinkedList<>();
         q.add(new Pair(root,0));
 
+        int ans=0;
+
         while(!q.isEmpty()){
             int size=q.size();
-            int mini=q.peek().num;
 
-            int first=0,last=0;
-            for(int i=0;i<size;i++){
+            long mini=q.peek().idx;
+            long first=0;
+            long last=0;
+
+            for(int j=0;j<size;j++){
                 Pair p=q.poll();
-                TreeNode currnode=p.node;
-                int curr=p.num-mini;
 
-                if(i==0)first=curr;
-                if(i==size-1)last=curr;
+                TreeNode curr=p.node;
+                long i=p.idx-mini;
 
-                if(currnode.left!=null)q.add(new Pair(currnode.left,2*curr+1));
-                if(currnode.right!=null)q.add(new Pair(currnode.right,2*curr+2));
+                if(j==0)first=i;
+                if(j==size-1)last=i;
+
+                if(curr.left!=null)q.add(new Pair(curr.left,2*i));
+                if(curr.right!=null)q.add(new Pair(curr.right,2*i+1));
             }
-            width=Math.max(width,(last-first+1));
+            ans=Math.max(ans,(int)(last-first+1));
         }
-
-        return width;
+        return ans;
     }
 }
