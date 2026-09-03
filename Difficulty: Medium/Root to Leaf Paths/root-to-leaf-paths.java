@@ -1,11 +1,9 @@
-/*
-Definition for Node
+/* Definition for Node
 class Node
 {
     int data;
     Node left;
     Node right;
-
     Node(int val)
     {
         this.data = val;
@@ -16,23 +14,22 @@ class Node
 */
 
 class Solution {
-    private boolean isLeaf(Node node){
-        return node.left==null && node.right==null;
-    }
-    private void helper(Node node,ArrayList<ArrayList<Integer>> list,ArrayList<Integer> path){
-        if(node==null)return;
-        path.add(node.data);
-        if(isLeaf(node))list.add(new ArrayList<>(path));
-        else{
-            helper(node.left,list,path);
-            helper(node.right,list,path);
-        }
-        path.remove(path.size()-1);
-    }
-    public ArrayList<ArrayList<Integer>> Paths(Node root) {
+    ArrayList<ArrayList<Integer>> ans=new ArrayList<>();
+    public ArrayList<ArrayList<Integer>> paths(Node root) {
         // code here
-        ArrayList<ArrayList<Integer>> list=new ArrayList<>();
-        helper(root,list,new ArrayList<>());
-        return list;
+        helper(root,new ArrayList<>());
+        return ans;
+    }
+    
+    private void helper(Node root,ArrayList<Integer> list){
+        if(root==null)return;
+        if(root.left==null && root.right==null){
+            list.add(root.data);
+            ans.add(new ArrayList<>(list));
+            return;
+        }
+        list.add(root.data);
+        helper(root.left,new ArrayList<>(list));
+        helper(root.right,new ArrayList<>(list));
     }
 }
