@@ -1,20 +1,28 @@
-/*
+/* Node Structure
 class Node{
     int data;
-    Node left,right;
-
+    Node left, right;
     Node(int key)
     {
         data = key;
         left = right = null;
     }
-}
-*/
+} */
 class Solution {
     public boolean isSumProperty(Node root) {
-        if(root==null || (root.left==null && root.right==null))return true;
-        int left=(root.left!=null)?root.left.data:0;
-        int right=(root.right!=null)?root.right.data:0;
-        return root.data==left+right && isSumProperty(root.left) &&isSumProperty(root.right);
+        //  code here
+        if(root==null)return true;
+        if(root.left==null && root.right==null)return true;
+        
+        int left=0,right=0;
+        if(root.left!=null){
+            left=root.left.data;
+        }
+        if(root.right!=null){
+            right=root.right.data;
+        }
+        if(left+right!=root.data)return false;
+        
+        return isSumProperty(root.left) && isSumProperty(root.right);
     }
 }
