@@ -1,20 +1,29 @@
 class Solution {
     public int minimumTotal(List<List<Integer>> triangle) {
         int n=triangle.size();
-        Integer[][] dp=new Integer[201][201];
-        return helper(0,0,triangle,n,dp);
-    }
-    private int helper(int row,int col,List<List<Integer>> triangle,int n,Integer[][] dp){
-
-        if(row==n-1){
-            return triangle.get(row).get(col);
+        int[][] dp=new int[n+1][n+1];
+        for(int j=0;j<n;j++){
+            dp[n-1][j]=triangle.get(n-1).get(j);
         }
-
-        if(dp[row][col]!=null)return dp[row][col];
-
-        int same=helper(row+1,col,triangle,n,dp);
-        int samePlusOne=helper(row+1,col+1,triangle,n,dp);
-
-        return dp[row][col]=triangle.get(row).get(col)+Math.min(same,samePlusOne);
+        for(int i=n-2;i>=0;i--){
+            for(int j=i;j>=0;j--){
+                int d=dp[i+1][j];
+                int dr=dp[i+1][j+1];
+                dp[i][j]=triangle.get(i).get(j)+Math.min(d,dr);
+            }
+        }
+        return dp[0][0];
+        // for(int[] arr:dp){
+        //     Arrays.fill(arr,-1);
+        // }
+        // return minSum(0,0,n,triangle,dp);
     }
+    // public int minSum(int i,int j,int n,List<List<Integer>> triangle,int[][] dp){
+    //     if(i==n-1)return triangle.get(i).get(j);
+
+    //     if(dp[i][j]!=-1)return dp[i][j];
+    //     int d=triangle.get(i).get(j)+minSum(i+1,j,n,triangle,dp);
+    //     int dr=triangle.get(i).get(j)+minSum(i+1,j+1,n,triangle,dp);
+    //     return dp[i][j]=Math.min(d,dr);
+    // }
 }
