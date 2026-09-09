@@ -1,17 +1,25 @@
 class Solution {
     public int findTargetSumWays(int[] nums, int target) {
-        return Targ(0, nums, target);
+        Integer[][] dp=new Integer[21][2001];
+        return helper(0,nums,target,dp);
     }
-
-    private int Targ(int idx, int[] arr, int target) {
-        if (idx == arr.length) {
+    private int helper(int idx,int[] nums,int target,Integer[][] dp){
+        if(idx>=nums.length){
             if(target==0){
                 return 1;
             }
             return 0;
         }
-        int left = Targ(idx + 1, arr, target - arr[idx]);
-        int right = Targ(idx + 1, arr, target + arr[idx]);
-        return left + right;
+
+        if(target<-1000 || target>1000){
+            return 0;
+        }
+
+        if(dp[idx][target+1000]!=null)return dp[idx][target+1000];
+
+        int plus=helper(idx+1,nums,target-nums[idx],dp);
+        int minus=helper(idx+1,nums,target+nums[idx],dp);
+
+        return dp[idx][target+1000]=plus+minus;
     }
 }
