@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2399-check-distances-between-same-letters](https://github.com/Ayush-droider/DSA/tree/master/2399-check-distances-between-same-letters) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Ayush-droider/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/Ayush-droider/DSA/tree/master/2463-minimum-total-distance-traveled) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ayush-droider/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ayush-droider/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2527-find-xor-beauty-of-array](https://github.com/Ayush-droider/DSA/tree/master/2527-find-xor-beauty-of-array) |
 | [2670-find-the-distinct-difference-array](https://github.com/Ayush-droider/DSA/tree/master/2670-find-the-distinct-difference-array) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Ayush-droider/DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ayush-droider/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ayush-droider/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ayush-droider/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Ayush-droider/DSA/tree/master/3310-remove-methods-from-project) |
 ## Union Find
@@ -860,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Ayush-droider/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ayush-droider/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ayush-droider/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ayush-droider/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [3477-fruits-into-baskets-ii](https://github.com/Ayush-droider/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ayush-droider/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ayush-droider/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -918,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-root-equals-sum-of-children](https://github.com/Ayush-droider/DSA/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ayush-droider/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ayush-droider/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -968,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-root-equals-sum-of-children](https://github.com/Ayush-droider/DSA/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ayush-droider/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ayush-droider/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -979,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Ayush-droider/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ayush-droider/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ayush-droider/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ayush-droider/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Stack
 |  |
 | ------- |
