@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2295-replace-elements-in-an-array](https://github.com/Ayush-droider/DSA/tree/master/2295-replace-elements-in-an-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Ayush-droider/DSA/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ayush-droider/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2399-check-distances-between-same-letters](https://github.com/Ayush-droider/DSA/tree/master/2399-check-distances-between-same-letters) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Ayush-droider/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/Ayush-droider/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ayush-droider/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Ayush-droider/DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2295-replace-elements-in-an-array](https://github.com/Ayush-droider/DSA/tree/master/2295-replace-elements-in-an-array) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ayush-droider/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2399-check-distances-between-same-letters](https://github.com/Ayush-droider/DSA/tree/master/2399-check-distances-between-same-letters) |
 | [2405-optimal-partition-of-string](https://github.com/Ayush-droider/DSA/tree/master/2405-optimal-partition-of-string) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Ayush-droider/DSA/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2670-find-the-distinct-difference-array](https://github.com/Ayush-droider/DSA/tree/master/2670-find-the-distinct-difference-array) |
@@ -810,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-construct-smallest-number-from-di-string](https://github.com/Ayush-droider/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/Ayush-droider/DSA/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Ayush-droider/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2399-check-distances-between-same-letters](https://github.com/Ayush-droider/DSA/tree/master/2399-check-distances-between-same-letters) |
 | [2405-optimal-partition-of-string](https://github.com/Ayush-droider/DSA/tree/master/2405-optimal-partition-of-string) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Ayush-droider/DSA/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ayush-droider/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
