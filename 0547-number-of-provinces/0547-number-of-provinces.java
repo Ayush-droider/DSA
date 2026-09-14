@@ -1,40 +1,47 @@
 class Solution {
-    private void bfs(int src,ArrayList<ArrayList<Integer>> adj,boolean[] vis){
+    private void bfs(int node,boolean[] vis,List<List<Integer>> adj){
         Queue<Integer> q=new LinkedList<>();
-        q.add(src);
-        vis[src]=true;
+        q.add(node);
+        vis[node]=true;
         while(!q.isEmpty()){
-            int node=q.poll();
-            for(int neigh:adj.get(node)){
+            int curr=q.poll();
+
+            for(int neigh:adj.get(curr)){
                 if(!vis[neigh]){
+                    q.add(neigh);
                     vis[neigh]=true;
-                    q.offer(neigh);
                 }
             }
         }
     }
     public int findCircleNum(int[][] isConnected) {
-        ArrayList<ArrayList<Integer>> adj=new ArrayList<>();
         int n=isConnected.length;
+        int m=isConnected[0].length;
+
+        List<List<Integer>> adj=new ArrayList<>();
+
         for(int i=0;i<n;i++){
             adj.add(new ArrayList<>());
         }
-        for(int i=0;i<isConnected.length;i++){
-            for(int j=0;j<isConnected[0].length;j++){
+
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
                 if(isConnected[i][j]==1){
                     adj.get(i).add(j);
                     adj.get(j).add(i);
                 }
             }
         }
-        boolean[] vis=new boolean[n];
-        int cnt=0;
+
+        int count=0;
+
+        boolean[] vis=new boolean[n+1];
         for(int i=0;i<n;i++){
             if(!vis[i]){
-                cnt++;
-                bfs(i,adj,vis);
+                count++;
+                bfs(i,vis,adj);
             }
         }
-        return cnt;
+        return count;
     }
 }
