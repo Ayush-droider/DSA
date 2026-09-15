@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayush-droider/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Ayush-droider/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Ayush-droider/DSA/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/Ayush-droider/DSA/tree/master/0695-max-area-of-island) |
 | [0705-design-hashset](https://github.com/Ayush-droider/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Ayush-droider/DSA/tree/master/0706-design-hashmap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ayush-droider/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0685-redundant-connection-ii](https://github.com/Ayush-droider/DSA/tree/master/0685-redundant-connection-ii) |
+| [0695-max-area-of-island](https://github.com/Ayush-droider/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ayush-droider/DSA/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ayush-droider/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0801-is-graph-bipartite](https://github.com/Ayush-droider/DSA/tree/master/0801-is-graph-bipartite) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Ayush-droider/DSA/tree/master/0498-diagonal-traverse) |
 | [0529-minesweeper](https://github.com/Ayush-droider/DSA/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Ayush-droider/DSA/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/Ayush-droider/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ayush-droider/DSA/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/Ayush-droider/DSA/tree/master/0777-toeplitz-matrix) |
 | [0864-image-overlap](https://github.com/Ayush-droider/DSA/tree/master/0864-image-overlap) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0685-redundant-connection-ii](https://github.com/Ayush-droider/DSA/tree/master/0685-redundant-connection-ii) |
+| [0695-max-area-of-island](https://github.com/Ayush-droider/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ayush-droider/DSA/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ayush-droider/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0801-is-graph-bipartite](https://github.com/Ayush-droider/DSA/tree/master/0801-is-graph-bipartite) |
@@ -1239,6 +1243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Ayush-droider/DSA/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/Ayush-droider/DSA/tree/master/0685-redundant-connection-ii) |
+| [0695-max-area-of-island](https://github.com/Ayush-droider/DSA/tree/master/0695-max-area-of-island) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ayush-droider/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Number Theory
 |  |
