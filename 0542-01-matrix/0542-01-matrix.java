@@ -1,57 +1,46 @@
 class Solution {
-    private class Node {
-        int first;
-        int second;
-        int third;
-
-        public Node(int first, int second, int third) {
-            this.first = first;
-            this.second = second;
-            this.third = third;
+    private class Pair{
+        int i;
+        int j;
+        Pair(int i,int j){
+            this.i=i;
+            this.j=j;
         }
     }
+    int[] dr={0,1,0,-1};
+    int[] dc={-1,0,1,0};
 
-    public int[][] updateMatrix(int[][] mat) {
-        int n = mat.length;
-        int m = mat[0].length;
+    public int[][] updateMatrix(int[][] mat){
+        int n=mat.length;
+        int m=mat[0].length;
+        int[][] ans=new int[n][m];
+        boolean[][] vis=new boolean[n][m];
+        Queue<Pair> q=new LinkedList<>();
 
-        int[][] visited = new int[n][m];
-        int[][] dist = new int[n][m];
-
-        Queue<Node> q = new LinkedList<>();
-
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (mat[i][j] == 0) {
-                    q.add(new Node(i, j, 0));
-                    visited[i][j] = 1;
-                } else {
-                    visited[i][j] = 0;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(mat[i][j]==0){
+                    vis[i][j]=true;
+                    q.add(new Pair(i,j));
                 }
             }
         }
+        while(!q.isEmpty()){
+            Pair p=q.poll();
+            int r=p.i;
+            int c=p.j;
 
-        int[] delrow = {-1, 0, 1, 0};
-        int[] delcol = {0, 1, 0, -1};
+            for(int k=0;k<4;k++){
+                int row=r+dr[k];
+                int col=c+dc[k];
 
-        while (!q.isEmpty()) {
-            int row = q.peek().first;
-            int col = q.peek().second;
-            int steps = q.peek().third;
-            q.remove();
-
-            dist[row][col] = steps;
-
-            for (int i = 0; i < 4; i++) {
-                int nrow = row + delrow[i];
-                int ncol = col + delcol[i];
-
-                if (nrow >= 0 && nrow < n && ncol >= 0 && ncol < m && visited[nrow][ncol] == 0) {
-                    visited[nrow][ncol] = 1;
-                    q.add(new Node(nrow, ncol, steps + 1));
+                if(row>=0 && row<n && col>=0 && col<m && !vis[row][col]){
+                    vis[row][col]=true;
+                    ans[row][col]=ans[r][c]+1;
+                    q.add(new Pair(row,col));
                 }
             }
         }
-        return dist;
+        return ans;
     }
 }
