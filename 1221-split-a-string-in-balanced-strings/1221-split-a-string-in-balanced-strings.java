@@ -1,18 +1,22 @@
 class Solution {
     public int balancedStringSplit(String s) {
-        int j=0;
-        int n=s.length();
-        int r=0,l=0;
-        int maxi=0;
-        while(j<n){
-            if(s.charAt(j)=='R')r++;
-            else l++;
+        int len=s.length();
+        int r=0,l=0,ans=0;
+        for(int i=0;i<len;i++)
+        {
+            if(s.charAt(i)=='R')
+            r++;
+            else
+            l++;
 
-            if(l==r){
-                maxi++;
+            if(r==l){
+            ans++;
+            r=0;
+            l=0;
             }
-            j++;
+
         }
-        return maxi;
+        return ans;
+        
     }
 }
