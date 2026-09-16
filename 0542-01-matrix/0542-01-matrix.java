@@ -1,16 +1,15 @@
 class Solution {
     private class Pair{
-        int i;
-        int j;
-        Pair(int i,int j){
-            this.i=i;
-            this.j=j;
+        int first;
+        int second;
+        int dis;
+        Pair(int first,int second,int dis){
+            this.first=first;
+            this.second=second;
+            this.dis=dis;
         }
     }
-    int[] dr={0,1,0,-1};
-    int[] dc={-1,0,1,0};
-
-    public int[][] updateMatrix(int[][] mat){
+    public int[][] updateMatrix(int[][] mat) {
         int n=mat.length;
         int m=mat[0].length;
         int[][] ans=new int[n][m];
@@ -20,24 +19,28 @@ class Solution {
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(mat[i][j]==0){
+                    q.add(new Pair(i,j,0));
                     vis[i][j]=true;
-                    q.add(new Pair(i,j));
                 }
             }
         }
+        int[] delrow={-1,0,1,0};
+        int[] delcol={0,1,0,-1};
+
         while(!q.isEmpty()){
-            Pair p=q.poll();
-            int r=p.i;
-            int c=p.j;
+            int r=q.peek().first;
+            int c=q.peek().second;
+            int d=q.peek().dis;
+            ans[r][c]=d;
+            q.remove();
 
-            for(int k=0;k<4;k++){
-                int row=r+dr[k];
-                int col=c+dc[k];
+            for(int dir=0;dir<4;dir++){
+                int row=r+delrow[dir];
+                int col=c+delcol[dir];
 
-                if(row>=0 && row<n && col>=0 && col<m && !vis[row][col]){
+                if(row>=0 && col>=0 && row<n && col<m && !vis[row][col]){
+                    q.add(new Pair(row,col,d+1));
                     vis[row][col]=true;
-                    ans[row][col]=ans[r][c]+1;
-                    q.add(new Pair(row,col));
                 }
             }
         }
