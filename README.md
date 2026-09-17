@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Ayush-droider/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0942-di-string-match](https://github.com/Ayush-droider/DSA/tree/master/0942-di-string-match) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ayush-droider/DSA/tree/master/0943-sum-of-subarray-minimums) |
+| [0946-validate-stack-sequences](https://github.com/Ayush-droider/DSA/tree/master/0946-validate-stack-sequences) |
 | [0948-bag-of-tokens](https://github.com/Ayush-droider/DSA/tree/master/0948-bag-of-tokens) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ayush-droider/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayush-droider/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Ayush-droider/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Ayush-droider/DSA/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Ayush-droider/DSA/tree/master/0867-transpose-matrix) |
+| [0946-validate-stack-sequences](https://github.com/Ayush-droider/DSA/tree/master/0946-validate-stack-sequences) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Ayush-droider/DSA/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ayush-droider/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1706-where-will-the-ball-fall](https://github.com/Ayush-droider/DSA/tree/master/1706-where-will-the-ball-fall) |
@@ -1047,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Ayush-droider/DSA/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/Ayush-droider/DSA/tree/master/0901-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ayush-droider/DSA/tree/master/0943-sum-of-subarray-minimums) |
+| [0946-validate-stack-sequences](https://github.com/Ayush-droider/DSA/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayush-droider/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ayush-droider/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/Ayush-droider/DSA/tree/master/1598-crawler-log-folder) |
