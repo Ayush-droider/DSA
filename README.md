@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ayush-droider/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ayush-droider/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ayush-droider/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Ayush-droider/DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3838-weighted-word-mapping](https://github.com/Ayush-droider/DSA/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ayush-droider/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Ayush-droider/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -1110,6 +1111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/Ayush-droider/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ayush-droider/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ayush-droider/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Ayush-droider/DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ayush-droider/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
