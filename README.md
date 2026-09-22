@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ayush-droider/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ayush-droider/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Ayush-droider/DSA/tree/master/3310-remove-methods-from-project) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -972,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ayush-droider/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1023,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ayush-droider/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
