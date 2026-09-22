@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Ayush-droider/DSA/tree/master/0337-house-robber-iii) |
+| [0388-longest-absolute-file-path](https://github.com/Ayush-droider/DSA/tree/master/0388-longest-absolute-file-path) |
 | [0437-path-sum-iii](https://github.com/Ayush-droider/DSA/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/Ayush-droider/DSA/tree/master/0463-island-perimeter) |
 | [0529-minesweeper](https://github.com/Ayush-droider/DSA/tree/master/0529-minesweeper) |
@@ -808,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Ayush-droider/DSA/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Ayush-droider/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Ayush-droider/DSA/tree/master/0290-word-pattern) |
+| [0388-longest-absolute-file-path](https://github.com/Ayush-droider/DSA/tree/master/0388-longest-absolute-file-path) |
 | [0392-is-subsequence](https://github.com/Ayush-droider/DSA/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Ayush-droider/DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayush-droider/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -1059,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Ayush-droider/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Ayush-droider/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Ayush-droider/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0388-longest-absolute-file-path](https://github.com/Ayush-droider/DSA/tree/master/0388-longest-absolute-file-path) |
 | [0402-remove-k-digits](https://github.com/Ayush-droider/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Ayush-droider/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ayush-droider/DSA/tree/master/0503-next-greater-element-ii) |
