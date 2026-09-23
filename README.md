@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ayush-droider/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ayush-droider/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1876-map-of-highest-peak](https://github.com/Ayush-droider/DSA/tree/master/1876-map-of-highest-peak) |
+| [1905-count-sub-islands](https://github.com/Ayush-droider/DSA/tree/master/1905-count-sub-islands) |
 | [1920-build-array-from-permutation](https://github.com/Ayush-droider/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Ayush-droider/DSA/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ayush-droider/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1609-even-odd-tree](https://github.com/Ayush-droider/DSA/tree/master/1609-even-odd-tree) |
 | [1765-map-of-highest-peak](https://github.com/Ayush-droider/DSA/tree/master/1765-map-of-highest-peak) |
 | [1876-map-of-highest-peak](https://github.com/Ayush-droider/DSA/tree/master/1876-map-of-highest-peak) |
+| [1905-count-sub-islands](https://github.com/Ayush-droider/DSA/tree/master/1905-count-sub-islands) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Ayush-droider/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ayush-droider/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-where-will-the-ball-fall](https://github.com/Ayush-droider/DSA/tree/master/1706-where-will-the-ball-fall) |
 | [1765-map-of-highest-peak](https://github.com/Ayush-droider/DSA/tree/master/1765-map-of-highest-peak) |
 | [1876-map-of-highest-peak](https://github.com/Ayush-droider/DSA/tree/master/1876-map-of-highest-peak) |
+| [1905-count-sub-islands](https://github.com/Ayush-droider/DSA/tree/master/1905-count-sub-islands) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Ayush-droider/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2906-construct-product-matrix](https://github.com/Ayush-droider/DSA/tree/master/2906-construct-product-matrix) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ayush-droider/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Ayush-droider/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Ayush-droider/DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
+| [1905-count-sub-islands](https://github.com/Ayush-droider/DSA/tree/master/1905-count-sub-islands) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Ayush-droider/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ayush-droider/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -1306,6 +1310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Ayush-droider/DSA/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/Ayush-droider/DSA/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/Ayush-droider/DSA/tree/master/0695-max-area-of-island) |
+| [1905-count-sub-islands](https://github.com/Ayush-droider/DSA/tree/master/1905-count-sub-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ayush-droider/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Number Theory
 |  |
