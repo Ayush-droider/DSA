@@ -495,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ayush-droider/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2050-count-good-numbers](https://github.com/Ayush-droider/DSA/tree/master/2050-count-good-numbers) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Ayush-droider/DSA/tree/master/2101-detonate-the-maximum-bombs) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Ayush-droider/DSA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2235-add-two-integers](https://github.com/Ayush-droider/DSA/tree/master/2235-add-two-integers) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Ayush-droider/DSA/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/Ayush-droider/DSA/tree/master/2481-strictly-palindromic-number) |
@@ -691,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Ayush-droider/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayush-droider/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ayush-droider/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Ayush-droider/DSA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayush-droider/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2295-replace-elements-in-an-array](https://github.com/Ayush-droider/DSA/tree/master/2295-replace-elements-in-an-array) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/Ayush-droider/DSA/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
