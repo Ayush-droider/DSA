@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ayush-droider/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayush-droider/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/Ayush-droider/DSA/tree/master/0983-minimum-cost-for-tickets) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Ayush-droider/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/Ayush-droider/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayush-droider/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ayush-droider/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -856,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Ayush-droider/DSA/tree/master/0844-backspace-string-compare) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Ayush-droider/DSA/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0942-di-string-match](https://github.com/Ayush-droider/DSA/tree/master/0942-di-string-match) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Ayush-droider/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayush-droider/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1048-longest-string-chain](https://github.com/Ayush-droider/DSA/tree/master/1048-longest-string-chain) |
 | [1079-letter-tile-possibilities](https://github.com/Ayush-droider/DSA/tree/master/1079-letter-tile-possibilities) |
@@ -1289,6 +1291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Ayush-droider/DSA/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/Ayush-droider/DSA/tree/master/0685-redundant-connection-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ayush-droider/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Ayush-droider/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Ayush-droider/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ayush-droider/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Ayush-droider/DSA/tree/master/3310-remove-methods-from-project) |
@@ -1328,6 +1331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Ayush-droider/DSA/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/Ayush-droider/DSA/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/Ayush-droider/DSA/tree/master/0695-max-area-of-island) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Ayush-droider/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1905-count-sub-islands](https://github.com/Ayush-droider/DSA/tree/master/1905-count-sub-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ayush-droider/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Number Theory
