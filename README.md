@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ayush-droider/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/Ayush-droider/DSA/tree/master/1672-richest-customer-wealth) |
 | [1706-where-will-the-ball-fall](https://github.com/Ayush-droider/DSA/tree/master/1706-where-will-the-ball-fall) |
+| [1710-maximum-units-on-a-truck](https://github.com/Ayush-droider/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1765-map-of-highest-peak](https://github.com/Ayush-droider/DSA/tree/master/1765-map-of-highest-peak) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ayush-droider/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ayush-droider/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -795,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/Ayush-droider/DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ayush-droider/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ayush-droider/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1710-maximum-units-on-a-truck](https://github.com/Ayush-droider/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1881-maximum-value-after-insertion](https://github.com/Ayush-droider/DSA/tree/master/1881-maximum-value-after-insertion) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Ayush-droider/DSA/tree/master/2117-find-original-array-from-doubled-array) |
 | [2126-destroying-asteroids](https://github.com/Ayush-droider/DSA/tree/master/2126-destroying-asteroids) |
@@ -1140,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ayush-droider/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ayush-droider/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ayush-droider/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1710-maximum-units-on-a-truck](https://github.com/Ayush-droider/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1859-sorting-the-sentence](https://github.com/Ayush-droider/DSA/tree/master/1859-sorting-the-sentence) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Ayush-droider/DSA/tree/master/2117-find-original-array-from-doubled-array) |
 | [2126-destroying-asteroids](https://github.com/Ayush-droider/DSA/tree/master/2126-destroying-asteroids) |
