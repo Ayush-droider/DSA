@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Ayush-droider/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Ayush-droider/DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Ayush-droider/DSA/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ayush-droider/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Ayush-droider/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ayush-droider/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Ayush-droider/DSA/tree/master/0322-coin-change) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Ayush-droider/DSA/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Ayush-droider/DSA/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/Ayush-droider/DSA/tree/master/0174-dungeon-game) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ayush-droider/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayush-droider/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0419-battleships-in-a-board](https://github.com/Ayush-droider/DSA/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Ayush-droider/DSA/tree/master/0463-island-perimeter) |
@@ -684,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Ayush-droider/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Ayush-droider/DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayush-droider/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ayush-droider/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ayush-droider/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ayush-droider/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Ayush-droider/DSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -949,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayush-droider/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayush-droider/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Ayush-droider/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ayush-droider/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Ayush-droider/DSA/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/Ayush-droider/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayush-droider/DSA/tree/master/0349-intersection-of-two-arrays) |
