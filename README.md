@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ayush-droider/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Ayush-droider/DSA/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ayush-droider/DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/Ayush-droider/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayush-droider/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayush-droider/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Ayush-droider/DSA/tree/master/0368-largest-divisible-subset) |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Ayush-droider/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ayush-droider/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Ayush-droider/DSA/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/Ayush-droider/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayush-droider/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayush-droider/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ayush-droider/DSA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Ayush-droider/DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayush-droider/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ayush-droider/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Ayush-droider/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ayush-droider/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ayush-droider/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Ayush-droider/DSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -1140,6 +1143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Ayush-droider/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ayush-droider/DSA/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Ayush-droider/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Ayush-droider/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayush-droider/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayush-droider/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Ayush-droider/DSA/tree/master/0368-largest-divisible-subset) |
@@ -1183,6 +1187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Ayush-droider/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ayush-droider/DSA/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Ayush-droider/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/Ayush-droider/DSA/tree/master/0767-reorganize-string) |
 | [1079-letter-tile-possibilities](https://github.com/Ayush-droider/DSA/tree/master/1079-letter-tile-possibilities) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ayush-droider/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -1274,6 +1279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayush-droider/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Ayush-droider/DSA/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Ayush-droider/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Ayush-droider/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayush-droider/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ayush-droider/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/Ayush-droider/DSA/tree/master/0767-reorganize-string) |
@@ -1374,6 +1380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayush-droider/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Ayush-droider/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Game Theory
 |  |
 | ------- |
@@ -1451,4 +1458,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/Ayush-droider/DSA/tree/master/0398-random-pick-index) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ayush-droider/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
