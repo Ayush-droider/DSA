@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayush-droider/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ayush-droider/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2256-minimum-average-difference](https://github.com/Ayush-droider/DSA/tree/master/2256-minimum-average-difference) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ayush-droider/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayush-droider/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2295-replace-elements-in-an-array](https://github.com/Ayush-droider/DSA/tree/master/2295-replace-elements-in-an-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Ayush-droider/DSA/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/Ayush-droider/DSA/tree/master/1876-map-of-highest-peak) |
 | [1905-count-sub-islands](https://github.com/Ayush-droider/DSA/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/Ayush-droider/DSA/tree/master/1992-find-all-groups-of-farmland) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ayush-droider/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Ayush-droider/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2906-construct-product-matrix](https://github.com/Ayush-droider/DSA/tree/master/2906-construct-product-matrix) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Ayush-droider/DSA/tree/master/3142-check-if-grid-satisfies-conditions) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Ayush-droider/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ayush-droider/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Ayush-droider/DSA/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ayush-droider/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/Ayush-droider/DSA/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Ayush-droider/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/Ayush-droider/DSA/tree/master/2463-minimum-total-distance-traveled) |
@@ -1481,4 +1484,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayush-droider/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ayush-droider/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
