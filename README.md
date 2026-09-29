@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Ayush-droider/DSA/tree/master/2126-destroying-asteroids) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayush-droider/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ayush-droider/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/Ayush-droider/DSA/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2256-minimum-average-difference](https://github.com/Ayush-droider/DSA/tree/master/2256-minimum-average-difference) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ayush-droider/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayush-droider/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/Ayush-droider/DSA/tree/master/2050-count-good-numbers) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Ayush-droider/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Ayush-droider/DSA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/Ayush-droider/DSA/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2235-add-two-integers](https://github.com/Ayush-droider/DSA/tree/master/2235-add-two-integers) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Ayush-droider/DSA/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/Ayush-droider/DSA/tree/master/2481-strictly-palindromic-number) |
@@ -1149,6 +1151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/Ayush-droider/DSA/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayush-droider/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ayush-droider/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/Ayush-droider/DSA/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Ayush-droider/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Ayush-droider/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2865-beautiful-towers-i](https://github.com/Ayush-droider/DSA/tree/master/2865-beautiful-towers-i) |
@@ -1399,6 +1402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ayush-droider/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/Ayush-droider/DSA/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/Ayush-droider/DSA/tree/master/2748-number-of-beautiful-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ayush-droider/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Quickselect
@@ -1500,4 +1504,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayush-droider/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ayush-droider/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Least Common Multiple
+|  |
+| ------- |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/Ayush-droider/DSA/tree/master/2197-replace-non-coprime-numbers-in-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/Ayush-droider/DSA/tree/master/2197-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
