@@ -885,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-flip-string-to-monotone-increasing](https://github.com/Ayush-droider/DSA/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0942-di-string-match](https://github.com/Ayush-droider/DSA/tree/master/0942-di-string-match) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Ayush-droider/DSA/tree/master/0990-satisfiability-of-equality-equations) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/Ayush-droider/DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayush-droider/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1048-longest-string-chain](https://github.com/Ayush-droider/DSA/tree/master/1048-longest-string-chain) |
 | [1079-letter-tile-possibilities](https://github.com/Ayush-droider/DSA/tree/master/1079-letter-tile-possibilities) |
@@ -1131,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/Ayush-droider/DSA/tree/master/0901-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ayush-droider/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [0946-validate-stack-sequences](https://github.com/Ayush-droider/DSA/tree/master/0946-validate-stack-sequences) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/Ayush-droider/DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayush-droider/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ayush-droider/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/Ayush-droider/DSA/tree/master/1598-crawler-log-folder) |
