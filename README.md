@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ayush-droider/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/Ayush-droider/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ayush-droider/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/Ayush-droider/DSA/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ayush-droider/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ayush-droider/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ayush-droider/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -653,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ayush-droider/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ayush-droider/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ayush-droider/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/Ayush-droider/DSA/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ayush-droider/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3597-partition-string](https://github.com/Ayush-droider/DSA/tree/master/3597-partition-string) |
 | [3663-find-the-least-frequent-digit](https://github.com/Ayush-droider/DSA/tree/master/3663-find-the-least-frequent-digit) |
@@ -729,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3477-fruits-into-baskets-ii](https://github.com/Ayush-droider/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ayush-droider/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ayush-droider/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/Ayush-droider/DSA/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3597-partition-string](https://github.com/Ayush-droider/DSA/tree/master/3597-partition-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ayush-droider/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Ayush-droider/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -939,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/Ayush-droider/DSA/tree/master/3110-score-of-a-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Ayush-droider/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ayush-droider/DSA/tree/master/3498-reverse-degree-of-a-string) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/Ayush-droider/DSA/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3597-partition-string](https://github.com/Ayush-droider/DSA/tree/master/3597-partition-string) |
 | [3692-majority-frequency-characters](https://github.com/Ayush-droider/DSA/tree/master/3692-majority-frequency-characters) |
 | [3713-longest-balanced-substring-i](https://github.com/Ayush-droider/DSA/tree/master/3713-longest-balanced-substring-i) |
