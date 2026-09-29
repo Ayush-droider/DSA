@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3477-fruits-into-baskets-ii](https://github.com/Ayush-droider/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ayush-droider/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/Ayush-droider/DSA/tree/master/3522-calculate-score-after-performing-instructions) |
+| [3527-find-the-most-common-response](https://github.com/Ayush-droider/DSA/tree/master/3527-find-the-most-common-response) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ayush-droider/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ayush-droider/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ayush-droider/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ayush-droider/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ayush-droider/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/Ayush-droider/DSA/tree/master/3522-calculate-score-after-performing-instructions) |
+| [3527-find-the-most-common-response](https://github.com/Ayush-droider/DSA/tree/master/3527-find-the-most-common-response) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ayush-droider/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3597-partition-string](https://github.com/Ayush-droider/DSA/tree/master/3597-partition-string) |
 | [3663-find-the-least-frequent-digit](https://github.com/Ayush-droider/DSA/tree/master/3663-find-the-least-frequent-digit) |
@@ -944,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3474-lexicographically-smallest-generated-string](https://github.com/Ayush-droider/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ayush-droider/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/Ayush-droider/DSA/tree/master/3522-calculate-score-after-performing-instructions) |
+| [3527-find-the-most-common-response](https://github.com/Ayush-droider/DSA/tree/master/3527-find-the-most-common-response) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/Ayush-droider/DSA/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3597-partition-string](https://github.com/Ayush-droider/DSA/tree/master/3597-partition-string) |
 | [3692-majority-frequency-characters](https://github.com/Ayush-droider/DSA/tree/master/3692-majority-frequency-characters) |
@@ -1216,6 +1219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/Ayush-droider/DSA/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Ayush-droider/DSA/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2748-number-of-beautiful-pairs](https://github.com/Ayush-droider/DSA/tree/master/2748-number-of-beautiful-pairs) |
+| [3527-find-the-most-common-response](https://github.com/Ayush-droider/DSA/tree/master/3527-find-the-most-common-response) |
 | [3663-find-the-least-frequent-digit](https://github.com/Ayush-droider/DSA/tree/master/3663-find-the-least-frequent-digit) |
 | [3692-majority-frequency-characters](https://github.com/Ayush-droider/DSA/tree/master/3692-majority-frequency-characters) |
 | [3713-longest-balanced-substring-i](https://github.com/Ayush-droider/DSA/tree/master/3713-longest-balanced-substring-i) |
