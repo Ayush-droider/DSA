@@ -732,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/Ayush-droider/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ayush-droider/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/Ayush-droider/DSA/tree/master/3522-calculate-score-after-performing-instructions) |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/Ayush-droider/DSA/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3597-partition-string](https://github.com/Ayush-droider/DSA/tree/master/3597-partition-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ayush-droider/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Ayush-droider/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -943,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3474-lexicographically-smallest-generated-string](https://github.com/Ayush-droider/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ayush-droider/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/Ayush-droider/DSA/tree/master/3522-calculate-score-after-performing-instructions) |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/Ayush-droider/DSA/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3597-partition-string](https://github.com/Ayush-droider/DSA/tree/master/3597-partition-string) |
 | [3692-majority-frequency-characters](https://github.com/Ayush-droider/DSA/tree/master/3692-majority-frequency-characters) |
 | [3713-longest-balanced-substring-i](https://github.com/Ayush-droider/DSA/tree/master/3713-longest-balanced-substring-i) |
@@ -1145,6 +1147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-construct-smallest-number-from-di-string](https://github.com/Ayush-droider/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Ayush-droider/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2865-beautiful-towers-i](https://github.com/Ayush-droider/DSA/tree/master/2865-beautiful-towers-i) |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/Ayush-droider/DSA/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Ayush-droider/DSA/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Sorting
 |  |
