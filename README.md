@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-coloring-a-border](https://github.com/Ayush-droider/DSA/tree/master/1034-coloring-a-border) |
 | [1035-cousins-in-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Ayush-droider/DSA/tree/master/1036-rotting-oranges) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Ayush-droider/DSA/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1254-number-of-closed-islands](https://github.com/Ayush-droider/DSA/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Ayush-droider/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1345-jump-game-iv](https://github.com/Ayush-droider/DSA/tree/master/1345-jump-game-iv) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Ayush-droider/DSA/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/Ayush-droider/DSA/tree/master/1034-coloring-a-border) |
 | [1035-cousins-in-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/1035-cousins-in-binary-tree) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Ayush-droider/DSA/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Ayush-droider/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1254-number-of-closed-islands](https://github.com/Ayush-droider/DSA/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Ayush-droider/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -1358,6 +1360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/Ayush-droider/DSA/tree/master/0685-redundant-connection-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ayush-droider/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Ayush-droider/DSA/tree/master/0990-satisfiability-of-equality-equations) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Ayush-droider/DSA/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Ayush-droider/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Ayush-droider/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Ayush-droider/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -1532,4 +1535,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Ayush-droider/DSA/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+## Graph Coloring
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Ayush-droider/DSA/tree/master/1042-flower-planting-with-no-adjacent) |
 <!---LeetCode Topics End-->
