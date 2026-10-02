@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Ayush-droider/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ayush-droider/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Ayush-droider/DSA/tree/master/0322-coin-change) |
+| [0332-reconstruct-itinerary](https://github.com/Ayush-droider/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ayush-droider/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Ayush-droider/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayush-droider/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Ayush-droider/DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0332-reconstruct-itinerary](https://github.com/Ayush-droider/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/Ayush-droider/DSA/tree/master/0337-house-robber-iii) |
 | [0388-longest-absolute-file-path](https://github.com/Ayush-droider/DSA/tree/master/0388-longest-absolute-file-path) |
 | [0419-battleships-in-a-board](https://github.com/Ayush-droider/DSA/tree/master/0419-battleships-in-a-board) |
@@ -883,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Ayush-droider/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Ayush-droider/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Ayush-droider/DSA/tree/master/0290-word-pattern) |
+| [0332-reconstruct-itinerary](https://github.com/Ayush-droider/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0388-longest-absolute-file-path](https://github.com/Ayush-droider/DSA/tree/master/0388-longest-absolute-file-path) |
 | [0392-is-subsequence](https://github.com/Ayush-droider/DSA/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Ayush-droider/DSA/tree/master/0402-remove-k-digits) |
@@ -1188,6 +1191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Ayush-droider/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ayush-droider/DSA/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Ayush-droider/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0332-reconstruct-itinerary](https://github.com/Ayush-droider/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/Ayush-droider/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayush-droider/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayush-droider/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -1329,6 +1333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayush-droider/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Ayush-droider/DSA/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Ayush-droider/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0332-reconstruct-itinerary](https://github.com/Ayush-droider/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/Ayush-droider/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayush-droider/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ayush-droider/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -1373,6 +1378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Ayush-droider/DSA/tree/master/0207-course-schedule) |
+| [0332-reconstruct-itinerary](https://github.com/Ayush-droider/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/Ayush-droider/DSA/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/Ayush-droider/DSA/tree/master/0685-redundant-connection-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ayush-droider/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -1557,4 +1563,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Ayush-droider/DSA/tree/master/1042-flower-planting-with-no-adjacent) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Ayush-droider/DSA/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Path
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Ayush-droider/DSA/tree/master/0332-reconstruct-itinerary) |
+## Semi-Eulerian Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Ayush-droider/DSA/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
