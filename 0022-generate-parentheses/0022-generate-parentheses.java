@@ -1,17 +1,23 @@
 class Solution {
     List<String> list=new ArrayList<>();
-    private void generate(int op,int cl,String s){
+    public List<String> generateParenthesis(int n) {
+        helper(n,n,new StringBuilder());
+        return list;
+    }
+    private void helper(int op,int cl,StringBuilder sb){
         if(op==0 && cl==0){
-            list.add(s);
+            list.add(sb.toString());
             return;
         }
-        if(op>0)generate(op-1,cl,s+"(");
-        if(cl>op)generate(op,cl-1,s+")");
-        //add open
-        //add close
-    }
-    public List<String> generateParenthesis(int n) {
-        generate(n,n,"");  
-        return list;
+        if(op>0){
+            sb.append("(");
+            helper(op-1,cl,sb);
+            sb.deleteCharAt(sb.length()-1);
+        }
+        if(cl>op){
+            sb.append(")");
+            helper(op,cl-1,sb);
+            sb.deleteCharAt(sb.length()-1);
+        }
     }
 }
