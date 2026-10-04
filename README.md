@@ -849,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ayush-droider/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1710-maximum-units-on-a-truck](https://github.com/Ayush-droider/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1881-maximum-value-after-insertion](https://github.com/Ayush-droider/DSA/tree/master/1881-maximum-value-after-insertion) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Ayush-droider/DSA/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Ayush-droider/DSA/tree/master/2117-find-original-array-from-doubled-array) |
 | [2126-destroying-asteroids](https://github.com/Ayush-droider/DSA/tree/master/2126-destroying-asteroids) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Ayush-droider/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -950,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ayush-droider/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Ayush-droider/DSA/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Ayush-droider/DSA/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Ayush-droider/DSA/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Ayush-droider/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2278-percentage-of-letter-in-string](https://github.com/Ayush-droider/DSA/tree/master/2278-percentage-of-letter-in-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Ayush-droider/DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -1175,6 +1177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ayush-droider/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/Ayush-droider/DSA/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayush-droider/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Ayush-droider/DSA/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ayush-droider/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Ayush-droider/DSA/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Ayush-droider/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -1543,6 +1546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Ayush-droider/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Ayush-droider/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayush-droider/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Ayush-droider/DSA/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ayush-droider/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Least Common Multiple
 |  |
