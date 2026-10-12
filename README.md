@@ -980,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Ayush-droider/DSA/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3110-score-of-a-string](https://github.com/Ayush-droider/DSA/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Ayush-droider/DSA/tree/master/3146-permutation-difference-between-two-strings) |
+| [3456-find-special-substring-of-length-k](https://github.com/Ayush-droider/DSA/tree/master/3456-find-special-substring-of-length-k) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Ayush-droider/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ayush-droider/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/Ayush-droider/DSA/tree/master/3522-calculate-score-after-performing-instructions) |
