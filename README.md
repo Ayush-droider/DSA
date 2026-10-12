@@ -1328,6 +1328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-daily-leads-and-partners](https://github.com/Ayush-droider/DSA/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Ayush-droider/DSA/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ayush-droider/DSA/tree/master/1757-recyclable-and-low-fat-products) |
+| [1795-rearrange-products-table](https://github.com/Ayush-droider/DSA/tree/master/1795-rearrange-products-table) |
 | [1827-invalid-tweets](https://github.com/Ayush-droider/DSA/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Ayush-droider/DSA/tree/master/1908-recyclable-and-low-fat-products) |
 ## Sliding Window
