@@ -1321,6 +1321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0608-tree-node](https://github.com/Ayush-droider/DSA/tree/master/0608-tree-node) |
 | [0610-triangle-judgement](https://github.com/Ayush-droider/DSA/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/Ayush-droider/DSA/tree/master/0620-not-boring-movies) |
+| [0626-exchange-seats](https://github.com/Ayush-droider/DSA/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/Ayush-droider/DSA/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/Ayush-droider/DSA/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/Ayush-droider/DSA/tree/master/1070-product-sales-analysis-iii) |
