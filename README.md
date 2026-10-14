@@ -1338,6 +1338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1795-rearrange-products-table](https://github.com/Ayush-droider/DSA/tree/master/1795-rearrange-products-table) |
 | [1827-invalid-tweets](https://github.com/Ayush-droider/DSA/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Ayush-droider/DSA/tree/master/1908-recyclable-and-low-fat-products) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Ayush-droider/DSA/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Sliding Window
 |  |
 | ------- |
