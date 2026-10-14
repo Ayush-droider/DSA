@@ -1315,6 +1315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/Ayush-droider/DSA/tree/master/0180-consecutive-numbers) |
 | [0584-find-customer-referee](https://github.com/Ayush-droider/DSA/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Ayush-droider/DSA/tree/master/0595-big-countries) |
 | [0608-tree-node](https://github.com/Ayush-droider/DSA/tree/master/0608-tree-node) |
