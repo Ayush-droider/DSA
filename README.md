@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ayush-droider/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ayush-droider/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Ayush-droider/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Ayush-droider/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1406-stone-game-iii](https://github.com/Ayush-droider/DSA/tree/master/1406-stone-game-iii) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ayush-droider/DSA/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ayush-droider/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -649,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/Ayush-droider/DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1345-jump-game-iv](https://github.com/Ayush-droider/DSA/tree/master/1345-jump-game-iv) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ayush-droider/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Ayush-droider/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/Ayush-droider/DSA/tree/master/1436-destination-city) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ayush-droider/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1512-number-of-good-pairs](https://github.com/Ayush-droider/DSA/tree/master/1512-number-of-good-pairs) |
@@ -1265,6 +1267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/Ayush-droider/DSA/tree/master/1079-letter-tile-possibilities) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ayush-droider/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ayush-droider/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Ayush-droider/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Ayush-droider/DSA/tree/master/1512-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ayush-droider/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Ayush-droider/DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
