@@ -1340,6 +1340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/Ayush-droider/DSA/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/Ayush-droider/DSA/tree/master/1070-product-sales-analysis-iii) |
 | [1158-market-analysis-i](https://github.com/Ayush-droider/DSA/tree/master/1158-market-analysis-i) |
+| [1179-reformat-department-table](https://github.com/Ayush-droider/DSA/tree/master/1179-reformat-department-table) |
 | [1258-article-views-i](https://github.com/Ayush-droider/DSA/tree/master/1258-article-views-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Ayush-droider/DSA/tree/master/1338-queries-quality-and-percentage) |
 | [1341-movie-rating](https://github.com/Ayush-droider/DSA/tree/master/1341-movie-rating) |
