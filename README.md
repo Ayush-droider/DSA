@@ -1344,6 +1344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-queries-quality-and-percentage](https://github.com/Ayush-droider/DSA/tree/master/1338-queries-quality-and-percentage) |
 | [1341-movie-rating](https://github.com/Ayush-droider/DSA/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Ayush-droider/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1484-group-sold-products-by-the-date](https://github.com/Ayush-droider/DSA/tree/master/1484-group-sold-products-by-the-date) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Ayush-droider/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1587-bank-account-summary-ii](https://github.com/Ayush-droider/DSA/tree/master/1587-bank-account-summary-ii) |
 | [1667-fix-names-in-a-table](https://github.com/Ayush-droider/DSA/tree/master/1667-fix-names-in-a-table) |
