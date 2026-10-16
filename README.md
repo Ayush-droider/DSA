@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Ayush-droider/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ayush-droider/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2527-find-xor-beauty-of-array](https://github.com/Ayush-droider/DSA/tree/master/2527-find-xor-beauty-of-array) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Ayush-droider/DSA/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Ayush-droider/DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2670-find-the-distinct-difference-array](https://github.com/Ayush-droider/DSA/tree/master/2670-find-the-distinct-difference-array) |
 | [2706-buy-two-chocolates](https://github.com/Ayush-droider/DSA/tree/master/2706-buy-two-chocolates) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Ayush-droider/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ayush-droider/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Ayush-droider/DSA/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Ayush-droider/DSA/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ayush-droider/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1992-find-all-groups-of-farmland](https://github.com/Ayush-droider/DSA/tree/master/1992-find-all-groups-of-farmland) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ayush-droider/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Ayush-droider/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Ayush-droider/DSA/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/Ayush-droider/DSA/tree/master/2906-construct-product-matrix) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Ayush-droider/DSA/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Ayush-droider/DSA/tree/master/3417-zigzag-grid-traversal-with-skip) |
@@ -1399,6 +1402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ayush-droider/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ayush-droider/DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ayush-droider/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Ayush-droider/DSA/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ayush-droider/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
@@ -1445,6 +1449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Ayush-droider/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Ayush-droider/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Ayush-droider/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Ayush-droider/DSA/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ayush-droider/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Ayush-droider/DSA/tree/master/3310-remove-methods-from-project) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Ayush-droider/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -1456,6 +1461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ayush-droider/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Ayush-droider/DSA/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 ## String Matching
 |  |
 | ------- |
