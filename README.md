@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Ayush-droider/DSA/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ayush-droider/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Ayush-droider/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ayush-droider/DSA/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Ayush-droider/DSA/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ayush-droider/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ayush-droider/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Ayush-droider/DSA/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/Ayush-droider/DSA/tree/master/2906-construct-product-matrix) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Ayush-droider/DSA/tree/master/3142-check-if-grid-satisfies-conditions) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ayush-droider/DSA/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Ayush-droider/DSA/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ayush-droider/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ayush-droider/DSA/tree/master/3546-equal-sum-grid-partition-i) |
@@ -1403,6 +1405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/Ayush-droider/DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ayush-droider/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Ayush-droider/DSA/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ayush-droider/DSA/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ayush-droider/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
@@ -1452,6 +1455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Ayush-droider/DSA/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ayush-droider/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Ayush-droider/DSA/tree/master/3310-remove-methods-from-project) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ayush-droider/DSA/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Ayush-droider/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Topological Sort
 |  |
@@ -1462,6 +1466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ayush-droider/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Ayush-droider/DSA/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ayush-droider/DSA/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## String Matching
 |  |
 | ------- |
