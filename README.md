@@ -672,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2117-find-original-array-from-doubled-array](https://github.com/Ayush-droider/DSA/tree/master/2117-find-original-array-from-doubled-array) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Ayush-droider/DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2295-replace-elements-in-an-array](https://github.com/Ayush-droider/DSA/tree/master/2295-replace-elements-in-an-array) |
+| [2374-node-with-highest-edge-score](https://github.com/Ayush-droider/DSA/tree/master/2374-node-with-highest-edge-score) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ayush-droider/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2399-check-distances-between-same-letters](https://github.com/Ayush-droider/DSA/tree/master/2399-check-distances-between-same-letters) |
 | [2405-optimal-partition-of-string](https://github.com/Ayush-droider/DSA/tree/master/2405-optimal-partition-of-string) |
@@ -1453,6 +1454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Ayush-droider/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Ayush-droider/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Ayush-droider/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2374-node-with-highest-edge-score](https://github.com/Ayush-droider/DSA/tree/master/2374-node-with-highest-edge-score) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Ayush-droider/DSA/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/Ayush-droider/DSA/tree/master/2608-shortest-cycle-in-a-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ayush-droider/DSA/tree/master/2685-count-the-number-of-complete-components) |
