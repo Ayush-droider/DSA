@@ -1372,6 +1372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1907-count-salary-categories](https://github.com/Ayush-droider/DSA/tree/master/1907-count-salary-categories) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Ayush-droider/DSA/tree/master/1908-recyclable-and-low-fat-products) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Ayush-droider/DSA/tree/master/1978-employees-whose-manager-left-the-company) |
+| [3586-find-covid-recovery-patients](https://github.com/Ayush-droider/DSA/tree/master/3586-find-covid-recovery-patients) |
 ## Sliding Window
 |  |
 | ------- |
