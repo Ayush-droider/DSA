@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ayush-droider/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ayush-droider/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ayush-droider/DSA/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Ayush-droider/DSA/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Ayush-droider/DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Ayush-droider/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ayush-droider/DSA/tree/master/0063-unique-paths-ii) |
@@ -801,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ayush-droider/DSA/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/Ayush-droider/DSA/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Ayush-droider/DSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Ayush-droider/DSA/tree/master/0060-permutation-sequence) |
 | [0486-predict-the-winner](https://github.com/Ayush-droider/DSA/tree/master/0486-predict-the-winner) |
@@ -849,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ayush-droider/DSA/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Ayush-droider/DSA/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayush-droider/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ayush-droider/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/Ayush-droider/DSA/tree/master/0402-remove-k-digits) |
@@ -900,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ayush-droider/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ayush-droider/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Ayush-droider/DSA/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/Ayush-droider/DSA/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/Ayush-droider/DSA/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Ayush-droider/DSA/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Ayush-droider/DSA/tree/master/0072-edit-distance) |
