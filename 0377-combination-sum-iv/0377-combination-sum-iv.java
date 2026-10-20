@@ -1,20 +1,21 @@
 class Solution {
+    Integer[] dp=new Integer[1001];
     public int combinationSum4(int[] nums, int target) {
-        int[] dp=new int[target+1];
-        Arrays.fill(dp,-1);
-        return solve(nums,target,dp);
+        return helper(nums,target);
     }
-    public int solve(int[] nums,int target,int[] dp){
-        if(target==0)return 1;
+
+    private int helper(int[] nums, int target){
         if(target<0)return 0;
-
-        if(dp[target]!=-1)return dp[target];
-
-        int ways=0;
-        for(int i=0;i<nums.length;i++){
-            ways+=solve(nums,target-nums[i],dp);
+        if(target==0){
+            return 1;
         }
-        dp[target]=ways;
-        return dp[target];
+        if(dp[target]!=null)return dp[target];
+        int cnt=0;
+        for(int num:nums){
+            if(num<=target){
+                cnt+=helper(nums,target-num);
+            }
+        }
+        return dp[target]=cnt;
     }
 }
