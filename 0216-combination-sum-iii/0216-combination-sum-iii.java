@@ -9,8 +9,8 @@ class Solution {
         if(subList.size()==size){
             if(target==0){
                 list.add(new ArrayList<>(subList));
-                return;
             }
+            return;
         }
 
         for(int i=idx;i<=9;i++){
