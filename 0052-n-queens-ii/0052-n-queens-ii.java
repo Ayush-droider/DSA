@@ -1,21 +1,23 @@
-class Solution{
-    int count=0;
-     private boolean isSafe(int row,int col,char[][] board,int n){
-        int r=row;
-        int c=col;
+class Solution {
+    int cnt=0;
+    private boolean isSafe(int i,int j,char[][] board){
+        int r=0,c=0;
+        //down-right diagonal
+        r=i;c=j;
         while(r>=0 && c>=0){
-            if(board[r][c]=='Q') return false;
-            r--; c--;
-        }
-        r=row;
-        c=col;
-        while(c>=0){
-            if(board[r][c]=='Q') return false;
+            if(board[r][c]=='Q')return false;
+            r--;
             c--;
         }
-        r=row;
-        c=col;
-        while(r<n && c>=0){
+        //upper-left
+        r=i;c=j;
+        while(c>=0){
+            if(board[r][c]=='Q')return false;
+            c--;
+        }
+        //upper right
+        r=i;c=j;
+        while(r<board.length && c>=0){
             if(board[r][c]=='Q') return false;
             r++; c--;
         }
@@ -23,11 +25,11 @@ class Solution{
     }
     private void solve(int col,int n,char[][] board){
         if(col==n){
-            count++;
+            cnt++;
             return;
         }
         for(int row=0;row<n;row++){
-            if(isSafe(row,col,board,n)){
+            if(isSafe(row,col,board)){
                 board[row][col]='Q';
                 solve(col+1,n,board);
                 board[row][col]='.';
@@ -36,10 +38,10 @@ class Solution{
     }
     public int totalNQueens(int n) {
         char[][] board=new char[n][n];
-        for(char[] rows:board){
-            Arrays.fill(rows,'.');
+        for(char[] row:board){
+            Arrays.fill(row,'.');
         }
         solve(0,n,board);
-        return count;
+        return cnt;
     }
 }
