@@ -1670,4 +1670,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ayush-droider/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Ayush-droider/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
