@@ -12,7 +12,7 @@ class Solution {
                 if(map.get(ch)==0)map.remove(ch);
                 i++;
             }
-            ans=Math.max(ans,(j-i+1));
+            if(map.size()==(j-i+1))ans=Math.max(ans,(j-i+1));
             j++;
         }
         return ans;
