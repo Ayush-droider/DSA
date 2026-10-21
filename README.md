@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ayush-droider/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1406-stone-game-iii](https://github.com/Ayush-droider/DSA/tree/master/1406-stone-game-iii) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ayush-droider/DSA/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ayush-droider/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ayush-droider/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/Ayush-droider/DSA/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ayush-droider/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -713,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ayush-droider/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayush-droider/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1314-matrix-block-sum](https://github.com/Ayush-droider/DSA/tree/master/1314-matrix-block-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ayush-droider/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Ayush-droider/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ayush-droider/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ayush-droider/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -1394,6 +1396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Ayush-droider/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Ayush-droider/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayush-droider/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ayush-droider/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ayush-droider/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ayush-droider/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/Ayush-droider/DSA/tree/master/1652-defuse-the-bomb) |
