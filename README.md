@@ -796,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ayush-droider/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ayush-droider/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Ayush-droider/DSA/tree/master/0146-lru-cache) |
+| [0203-remove-linked-list-elements](https://github.com/Ayush-droider/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ayush-droider/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0705-design-hashset](https://github.com/Ayush-droider/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Ayush-droider/DSA/tree/master/0706-design-hashmap) |
@@ -809,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Ayush-droider/DSA/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Ayush-droider/DSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Ayush-droider/DSA/tree/master/0060-permutation-sequence) |
+| [0203-remove-linked-list-elements](https://github.com/Ayush-droider/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0486-predict-the-winner](https://github.com/Ayush-droider/DSA/tree/master/0486-predict-the-winner) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ayush-droider/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Ayush-droider/DSA/tree/master/2050-count-good-numbers) |
