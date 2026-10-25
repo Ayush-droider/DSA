@@ -1532,6 +1532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/Ayush-droider/DSA/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/Ayush-droider/DSA/tree/master/0695-max-area-of-island) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Ayush-droider/DSA/tree/master/0990-satisfiability-of-equality-equations) |
+| [1254-number-of-closed-islands](https://github.com/Ayush-droider/DSA/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Ayush-droider/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1905-count-sub-islands](https://github.com/Ayush-droider/DSA/tree/master/1905-count-sub-islands) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Ayush-droider/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
