@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Ayush-droider/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Ayush-droider/DSA/tree/master/1253-sort-the-matrix-diagonally) |
 | [1254-number-of-closed-islands](https://github.com/Ayush-droider/DSA/tree/master/1254-number-of-closed-islands) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Ayush-droider/DSA/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Ayush-droider/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1314-matrix-block-sum](https://github.com/Ayush-droider/DSA/tree/master/1314-matrix-block-sum) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ayush-droider/DSA/tree/master/1338-reduce-array-size-to-the-half) |
