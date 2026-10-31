@@ -679,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/Ayush-droider/DSA/tree/master/1436-destination-city) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ayush-droider/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1512-number-of-good-pairs](https://github.com/Ayush-droider/DSA/tree/master/1512-number-of-good-pairs) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/Ayush-droider/DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ayush-droider/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ayush-droider/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/Ayush-droider/DSA/tree/master/1695-maximum-erasure-value) |
@@ -994,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1592-rearrange-spaces-between-words](https://github.com/Ayush-droider/DSA/tree/master/1592-rearrange-spaces-between-words) |
 | [1598-crawler-log-folder](https://github.com/Ayush-droider/DSA/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayush-droider/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/Ayush-droider/DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ayush-droider/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ayush-droider/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ayush-droider/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
