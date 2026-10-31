@@ -985,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1417-reformat-the-string](https://github.com/Ayush-droider/DSA/tree/master/1417-reformat-the-string) |
 | [1436-destination-city](https://github.com/Ayush-droider/DSA/tree/master/1436-destination-city) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ayush-droider/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1446-consecutive-characters](https://github.com/Ayush-droider/DSA/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ayush-droider/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ayush-droider/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1528-shuffle-string](https://github.com/Ayush-droider/DSA/tree/master/1528-shuffle-string) |
