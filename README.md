@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Ayush-droider/DSA/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ayush-droider/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0801-is-graph-bipartite](https://github.com/Ayush-droider/DSA/tree/master/0801-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Ayush-droider/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Ayush-droider/DSA/tree/master/0994-rotting-oranges) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Ayush-droider/DSA/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ayush-droider/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0801-is-graph-bipartite](https://github.com/Ayush-droider/DSA/tree/master/0801-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Ayush-droider/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ayush-droider/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Ayush-droider/DSA/tree/master/1020-number-of-enclaves) |
@@ -1512,6 +1514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Ayush-droider/DSA/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/Ayush-droider/DSA/tree/master/0685-redundant-connection-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ayush-droider/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/Ayush-droider/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Ayush-droider/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Ayush-droider/DSA/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Ayush-droider/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -1528,6 +1531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Ayush-droider/DSA/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/Ayush-droider/DSA/tree/master/0802-find-eventual-safe-states) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1747,4 +1751,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Ayush-droider/DSA/tree/master/0207-course-schedule) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Ayush-droider/DSA/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Ayush-droider/DSA/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
