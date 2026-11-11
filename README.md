@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3028-ant-on-the-boundary](https://github.com/Ayush-droider/DSA/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayush-droider/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Ayush-droider/DSA/tree/master/3142-check-if-grid-satisfies-conditions) |
+| [3285-find-indices-of-stable-mountains](https://github.com/Ayush-droider/DSA/tree/master/3285-find-indices-of-stable-mountains) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ayush-droider/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Ayush-droider/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ayush-droider/DSA/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
